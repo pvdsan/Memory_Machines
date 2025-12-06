@@ -1,0 +1,15 @@
+{
+  "document_id": "gutenberg_6812",
+  "document_title": "Abraham Lincoln: a History — Volume 01",
+  "document_type": "Book",
+  "event": "Gettysburg Address",
+  "author": "John Hay, John G. Nicolay",
+  "claims": [
+    "The Gettysburg speech is dissimilar to Lincoln's inaugural addresses, much like 'The Comedy of Errors' is dissimilar to 'Hamlet'."
+  ],
+  "temporal_details": {
+    "date": "November 19, 1863",
+    "time": null
+  },
+  "tone": "Analytical"
+}

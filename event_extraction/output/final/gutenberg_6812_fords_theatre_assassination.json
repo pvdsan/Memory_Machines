@@ -1,0 +1,17 @@
+{
+  "document_id": "gutenberg_6812",
+  "document_title": "Abraham Lincoln: a History — Volume 01",
+  "document_type": "Book",
+  "event": "Ford's Theatre Assassination",
+  "author": "John Hay, John G. Nicolay",
+  "claims": [
+    "Abraham Lincoln was assassinated by a bullet.",
+    "The event occurred twenty-five years before the writing of the text.",
+    "A person present at the deathbed of two assassinated Presidents was alive at the time of the event."
+  ],
+  "temporal_details": {
+    "date": "April 14, 1865",
+    "time": null
+  },
+  "tone": "Sympathetic"
+}

@@ -1,0 +1,15 @@
+{
+  "document_id": "gutenberg_12801",
+  "document_title": "Abraham Lincoln, Volume II",
+  "document_type": "Book",
+  "event": "Fort Sumter Decision",
+  "author": "John T. Morse Jr.",
+  "claims": [
+    "South Carolina besieged Fort Sumter."
+  ],
+  "temporal_details": {
+    "date": "April 12-14, 1861",
+    "time": null
+  },
+  "tone": "Analytical"
+}

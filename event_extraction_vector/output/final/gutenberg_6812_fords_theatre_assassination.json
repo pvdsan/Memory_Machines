@@ -1,0 +1,16 @@
+{
+  "document_id": "gutenberg_6812",
+  "document_title": "Abraham Lincoln: a History — Volume 01",
+  "document_type": "Book",
+  "event": "Ford's Theatre Assassination",
+  "author": "John Hay, John G. Nicolay",
+  "claims": [
+    "Abraham Lincoln fell by the bullet of the assassin.",
+    "The tradition of Lincoln's greatness is already complete, although only twenty-five years have passed since he fell by the bullet of the assassin."
+  ],
+  "temporal_details": {
+    "date": "twenty-five years before the writing of the preface",
+    "time": null
+  },
+  "tone": "Analytical"
+}

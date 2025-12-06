@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# API Keys and secrets
+.env
+*.key
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.cursor/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# FAISS indices (large binary files - regeneratable)
+*.faiss
+*_meta.pkl
+
+# BM25 indices (regeneratable)
+*_bm25.pkl
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Personal/project files that shouldn't be in repo
+*.pdf
+

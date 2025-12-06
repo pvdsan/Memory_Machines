@@ -1,0 +1,21 @@
+{
+  "document_id": "gutenberg_18379",
+  "document_title": "Abraham Lincoln",
+  "document_type": "Book",
+  "event": "Ford's Theatre Assassination",
+  "author": "Baron Godfrey Rathbone Benson Charnwood",
+  "claims": [
+    "Abraham Lincoln attended the theatre on the night of Good Friday.",
+    "A shot was heard in the theatre sometime after 10 o'clock.",
+    "Abraham Lincoln fell forward upon the front of the box unconscious and dying.",
+    "The assassin was John Wilkes Booth, brother of a famous actor.",
+    "Abraham Lincoln was carried still unconscious to a house near the theatre.",
+    "Abraham Lincoln died on April 15 at 7:22 AM, as stated by Stanton.",
+    "Stanton's final words about Lincoln were, \"Now he belongs to the ages.\""
+  ],
+  "temporal_details": {
+    "date": "April 14, 1865",
+    "time": "sometime after 10:00 PM"
+  },
+  "tone": "Analytical"
+}

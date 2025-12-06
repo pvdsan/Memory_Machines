@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "annotator": "human",
+    "date": "2024-12-05",
+    "total_comparisons": 10,
+    "rating_scale": ["Consistent", "Not Consistent"]
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "event": "Election Night 1860",
+      "author": "John T. Morse Jr.",
+      "source": "Abraham Lincoln, Volume II (gutenberg_12801)",
+      "rating": "Consistent",
+      "notes": "No mention/capture of Lincoln being painted as a dangerous radical before elections by the author. Extra information though."
+    },
+    {
+      "id": 2,
+      "event": "Election Night 1860",
+      "author": "Baron Godfrey Rathbone Benson Charnwood",
+      "source": "Abraham Lincoln (gutenberg_18379)",
+      "rating": "Consistent",
+      "notes": "Completely captures the southern distrust towards Lincoln and some other extra information."
+    },
+    {
+      "id": 3,
+      "event": "Fort Sumter Decision",
+      "author": "Francis F. Browne",
+      "source": "The Every-day Life of Abraham Lincoln (gutenberg_14004)",
+      "rating": "Consistent",
+      "notes": "The author acknowledges Lincoln's restraint before the attack. Also only the provisions were to be supplied and sequence was also aligned."
+    },
+    {
+      "id": 4,
+      "event": "Fort Sumter Decision",
+      "author": "Henry Ketcham",
+      "source": "The Life of Abraham Lincoln (gutenberg_6811)",
+      "rating": "Consistent",
+      "notes": "The author affirms Lincoln's claim to only send provisions. Sequence was also well aligned. Some extra factual additions about others' strategies."
+    },
+    {
+      "id": 5,
+      "event": "Gettysburg Address",
+      "author": "John Hay, John G. Nicolay",
+      "source": "Abraham Lincoln: a History — Volume 01 (gutenberg_6812)",
+      "rating": "Not Consistent",
+      "notes": "Just a comment on the address, no real capture. Makes sense, since this book is Volume 1 of the series and doesn't contain those events."
+    },
+    {
+      "id": 6,
+      "event": "Gettysburg Address",
+      "author": "Baron Godfrey Rathbone Benson Charnwood",
+      "source": "Abraham Lincoln (gutenberg_18379)",
+      "rating": "Consistent",
+      "notes": "Author references almost each of Lincoln's phrases, reaffirms Lincoln's intent, tone on sacrifice, equality, national purpose, democracy."
+    },
+    {
+      "id": 7,
+      "event": "Second Inaugural Address",
+      "author": "John T. Morse Jr.",
+      "source": "Abraham Lincoln, Volume II (gutenberg_12801)",
+      "rating": "Consistent",
+      "notes": "Author reaffirms the slavery point and the scale of magnitude point. Anxiety may not be the right emotion here though."
+    },
+    {
+      "id": 8,
+      "event": "Second Inaugural Address",
+      "author": "John Hay, John G. Nicolay",
+      "source": "Abraham Lincoln: a History — Volume 01 (gutenberg_6812)",
+      "rating": "Not Consistent",
+      "notes": "Author doesn't focus on the speech but just a mere commentary on it."
+    },
+    {
+      "id": 9,
+      "event": "Gettysburg Address",
+      "author": "Francis F. Browne",
+      "source": "The Every-day Life of Abraham Lincoln (gutenberg_14004)",
+      "rating": "Consistent",
+      "notes": "The author captures all the major themes of the Gettysburg address like liberty, equality, sacrifice etc. Every major phrase is perfectly paraphrased."
+    },
+    {
+      "id": 10,
+      "event": "Second Inaugural Address",
+      "author": "Baron Godfrey Rathbone Benson Charnwood",
+      "source": "Abraham Lincoln (gutenberg_18379)",
+      "rating": "Consistent",
+      "notes": "The author provides all major themes here."
+    }
+  ],
+  "summary": {
+    "consistent": 8,
+    "not_consistent": 2,
+    "by_author": {
+      "John T. Morse Jr.": {"consistent": 2, "not_consistent": 0},
+      "Baron Godfrey Rathbone Benson Charnwood": {"consistent": 3, "not_consistent": 0},
+      "Francis F. Browne": {"consistent": 2, "not_consistent": 0},
+      "Henry Ketcham": {"consistent": 1, "not_consistent": 0},
+      "John Hay, John G. Nicolay": {"consistent": 0, "not_consistent": 2}
+    },
+    "by_event": {
+      "Election Night 1860": {"consistent": 2, "not_consistent": 0},
+      "Fort Sumter Decision": {"consistent": 2, "not_consistent": 0},
+      "Gettysburg Address": {"consistent": 2, "not_consistent": 1},
+      "Second Inaugural Address": {"consistent": 2, "not_consistent": 1}
+    }
+  }
+}

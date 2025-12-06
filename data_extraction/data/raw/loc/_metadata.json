@@ -1,0 +1,76 @@
+[
+  {
+    "id": "mal0440500",
+    "files": [
+      "mal0440500_Abraham_Lincoln_papers_Series_1_General_.pdf",
+      "mal0440500_Abraham_Lincoln_papers_Series_1_General_.txt"
+    ],
+    "url": "https://www.loc.gov/item/mal0440500/",
+    "url_type": "item",
+    "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Abraham Lincoln to Truman Smith, Saturday, November 10, 1860 (Lincoln will not issue a public statement to reassure the South)",
+    "document_type": "manuscript/mixed material",
+    "date": "1860-11-10",
+    "place": null,
+    "from": "Abraham Lincoln",
+    "to": "Truman Smith"
+  },
+  {
+    "id": "mal_0882800",
+    "files": [
+      "mal_0882800_Abraham_Lincoln_papers_Series_1_General_.pdf",
+      "mal_0882800_Abraham_Lincoln_papers_Series_1_General_.txt"
+    ],
+    "url": "https://www.loc.gov/resource/mal.0882800/",
+    "url_type": "resource",
+    "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens)",
+    "document_type": "manuscript/mixed material",
+    "date": "1861-04-08",
+    "place": null,
+    "from": "Abraham Lincoln",
+    "to": "Abraham Lincoln"
+  },
+  {
+    "id": "exhibits_trans-nicolay-copy",
+    "files": [
+      "exhibits_trans-nicolay-copy_Gettysburg_AddressGettysburg_Address_-_N.txt"
+    ],
+    "url": "https://www.loc.gov/exhibits/gettysburg-address/ext/trans-nicolay-copy.html",
+    "url_type": "exhibits",
+    "title": "Gettysburg AddressGettysburg Address - “Nicolay Copy”",
+    "document_type": "Speech",
+    "date": null,
+    "place": null,
+    "from": null,
+    "to": null
+  },
+  {
+    "id": "mal_4361300",
+    "files": [
+      "mal_4361300_Abraham_Lincoln_papers_Series_3_General_.pdf",
+      "mal_4361300_Abraham_Lincoln_papers_Series_3_General_.txt"
+    ],
+    "url": "https://www.loc.gov/resource/mal.4361300/",
+    "url_type": "resource",
+    "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: Abraham Lincoln, [March 4, 1865] (Second Inaugural Address; endorsed by Lincoln, April 10, 1865)",
+    "document_type": "manuscript/mixed material",
+    "date": "1865-03-04",
+    "place": null,
+    "from": "Lincoln, Abraham, 1809-1865",
+    "to": null
+  },
+  {
+    "id": "mal_4361800",
+    "files": [
+      "mal_4361800_Abraham_Lincoln_papers_Series_3_General_.jpg",
+      "mal_4361800_Abraham_Lincoln_papers_Series_3_General_.txt"
+    ],
+    "url": "https://www.loc.gov/resource/mal.4361800/",
+    "url_type": "resource",
+    "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: E. B. Hall to Abraham Lincoln and James Speed, Saturday, March 18, 1865 (Recommendation)",
+    "document_type": "manuscript/mixed material",
+    "date": "1865-03-18",
+    "place": null,
+    "from": "Abraham Lincoln",
+    "to": "Abraham Lincoln and James Speed"
+  }
+]

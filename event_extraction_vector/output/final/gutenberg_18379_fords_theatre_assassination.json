@@ -1,0 +1,20 @@
+{
+  "document_id": "gutenberg_18379",
+  "document_title": "Abraham Lincoln",
+  "document_type": "Book",
+  "event": "Ford's Theatre Assassination",
+  "author": "Baron Godfrey Rathbone Benson Charnwood",
+  "claims": [
+    "Abraham Lincoln was carried still unconscious to a house near the theatre on the night of Good Friday.",
+    "His sons and other friends were summoned.",
+    "He never regained consciousness.",
+    "A look of unspeakable peace came over his worn features.",
+    "At 7.22 on the morning of April 15, Stanton announced that Lincoln had passed away.",
+    "Stanton's words were: \"Now he belongs to the ages.\""
+  ],
+  "temporal_details": {
+    "date": "April 15",
+    "time": "7:22 AM"
+  },
+  "tone": "Sympathetic"
+}

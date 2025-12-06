@@ -1,0 +1,1274 @@
+[
+  {
+    "event": "Election Night 1860",
+    "author": "Francis F. Browne",
+    "lincoln_claims": [
+      "A circular distributed before the election by respectable citizens of New York held up Lincoln as a dangerous radical and an enemy of the institutions of the South and of the peace and security of the Union, whose policies were unsettling to the commercial life of the country."
+    ],
+    "author_claims": [
+      "Abraham Lincoln was elected President of the United States on November 6, 1860.",
+      "The Presidential campaign of 1860 was characterized by \"Wide awake\" clubs and enthusiasm in the North, and a bitter and threatening tone in the South.",
+      "Lincoln had a substantial majority of the electoral vote (180 to 123), but the popular vote was nearly a million (930,170) against him.",
+      "Following the election, Lincoln was immediately visited by people from all over the country seeking to satisfy curiosity or solicit favors.",
+      "Lincoln began forming his Cabinet on the morning after the election, and it was almost the same as the one he finally appointed.",
+      "The issues of the 1860 Presidential election were largely moral questions.",
+      "The 1860 Presidential election was attended by novel and extraordinary circumstances.",
+      "The Republican convention of 1860 led to Lincoln's presidential nomination.",
+      "Lincoln was an obscure youth at the beginning of his professional life but became President at age fifty.",
+      "The joint discussions between Lincoln and Douglas in 1858 were among the ablest forensic debates since the republic's foundation.",
+      "The operator of the telegraph in Springfield placed his instrument at the disposal of an individual who stayed there until enough returns indicated the election outcome, around 2 AM on Wednesday."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 75,
+        "contradictions": [],
+        "reasoning": "The primary source focuses on the negative perception of Lincoln as a radical and threat to the South and the Union's peace, as presented by a circular distributed before the election. The secondary source provides a broader overview of the election, including campaign enthusiasm, the electoral and popular vote breakdown, Lincoln's post-election activities (cabinet formation, visitors), the moral issues at stake, and the novelty of the circumstances. While the secondary source doesn't directly address the specific 'circular' mentioned in the primary source, it doesn't contradict it. Instead, it offers a wider context of the election. The secondary source's mention of a 'bitter and threatening tone in the South' aligns with the sentiment described in the primary source's circular, suggesting that Lincoln was perceived as a threat. The secondary source adds a lot of contextual information about Lincoln's rise, the campaign, and immediate post-election events that are not present in the primary source, leading to a 'Contextual Variance' score.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The primary source describes a circular that portrayed Lincoln as a 'dangerous radical' and an 'enemy of the institutions of the South', implying a negative perception of his policies. The secondary source, while mentioning the election outcome and campaign tone, does not directly address or reflect this specific negative portrayal of Lincoln's platform as described in the primary source. Instead, it focuses on the 'moral questions' as the primary issues."
+          },
+          {
+            "type": "omission",
+            "reason": "The primary source mentions a circular distributed by 'respectable citizens of New York' that characterized Lincoln's policies as 'unsettling to the commercial life of the country'. The secondary source does not mention this specific concern or the source of this criticism."
+          }
+        ],
+        "reasoning": "* **Factual Entity Check:**\n* Matches: The event is the Election Night 1860. The secondary source mentions Lincoln's election on November 6, 1860, and the telegraph operator staying until 2 AM on Wednesday, which aligns with the general timeframe of election night returns.\n* Contradictions: No direct factual contradictions in terms of dates or numbers.\n* Hallucinations: The secondary source does not attribute any specific quotes or actions to Lincoln that are not present in the primary text, but it also omits key details from the primary text.\n\n* **Context vs. Contradiction (The Omission Filter):**\n* Contextual Additions: The secondary source adds a lot of contextual information about the campaign, Lincoln's rise, the cabinet formation, and the telegraph operation. This information is not present in the primary source but does not inherently contradict it.\n* Interpretive Leaps: The secondary source states the issues were 'largely moral questions'. The primary source, by describing the circular, suggests that economic and radicalism concerns were also significant issues used against Lincoln. This is an interpretive difference due to omission.\n\n* **Tonal Alignment:**\n* The primary source is factual and descriptive of a negative portrayal of Lincoln. The secondary source is also largely factual and descriptive of the election process and its aftermath. The tone is generally aligned in its factual reporting, but the secondary source's focus on 'moral questions' as the primary issues misses the 'dangerous radical' and 'unsettling to commercial life' aspects highlighted in the primary source.\n\n* **Final Scoring:**\n* The secondary source accurately reports the election date and some surrounding events. However, it omits the specific negative characterizations of Lincoln and his policies that are central to the provided primary source, and instead frames the issues as primarily 'moral questions'. This omission leads to a less complete picture and a slight interpretive drift, justifying a score in the 'Contextual Variance' range.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "Lincoln's account focuses on negative perceptions of him as a radical and threat to the Union, which is not directly addressed or refuted by the secondary source, although the secondary source does mention the 'threatening tone in the South'."
+          },
+          {
+            "type": "omission",
+            "reason": "The secondary source provides a broad overview of the election, including details about campaign clubs, vote counts, and Lincoln's subsequent actions, none of which are present in the single statement attributed to Lincoln."
+          }
+        ],
+        "reasoning": "The secondary source provides a factual overview of the 1860 election and Lincoln's victory, which does not directly contradict the primary source's statement about how Lincoln was perceived by some before the election. However, the secondary source adds significant context and details about the election and Lincoln's early actions that are not present in the primary source. The primary source focuses on a specific negative perception of Lincoln, while the secondary source offers a broader, more neutral historical account. The secondary source does not directly engage with or explain the 'dangerous radical' perception mentioned in the primary source, but it also doesn't contradict it. The score reflects that the facts align, but the secondary source adds substantial interpretive coloring and details not found in the primary text, and omits the specific negative framing present in Lincoln's account.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Election Night 1860",
+    "author": "John T. Morse Jr.",
+    "lincoln_claims": [
+      "A circular distributed before the election by respectable citizens of New York held up Lincoln as a dangerous radical and an enemy of the institutions of the South and of the peace and security of the Union, whose policies were unsettling to the commercial life of the country."
+    ],
+    "author_claims": [
+      "Abraham Lincoln was to be the next president of the United States in the autumn of 1860.",
+      "Following his election in 1860, Lincoln was immediately approached by office seekers and individuals who warned him of assassination threats.",
+      "The news of Lincoln's election in 1860 arrived throughout the day, leading to a celebratory atmosphere.",
+      "Lincoln's election was secured by successes achieved by the Republican party.",
+      "The Republican party nominated Lincoln for the presidency in 1860.",
+      "The Republican party's moral attitude toward slavery was the real cause of secession.",
+      "The Republican party's legal position on slavery was a factor in the events.",
+      "The Republican party elected Lincoln.",
+      "The Republican party's leaders initially distrusted Lincoln.",
+      "The Republican party was dissatisfied with Lincoln's cabinet.",
+      "The Republican party was dissatisfied with Lincoln's emancipation policy.",
+      "The Republican party was torn by factions.",
+      "Abolitionist members of the Republican party denounced Lincoln.",
+      "Leaders of the Republican party condemned Lincoln.",
+      "A majority of the Republican party continued to support Lincoln.",
+      "Greeley influenced the Republican party.",
+      "The Republican party upheld the Emancipation Proclamation.",
+      "The Republican party lost in the congressional elections of 1862.",
+      "The radical wing of the Republican party demanded the dismissal of Seward.",
+      "The Republican party regained ground in 1863.",
+      "An extreme faction of the Republican party still distrusted Lincoln and Seward.",
+      "Members of the Republican party denounced Lincoln for vetoing a reconstruction bill.",
+      "There was a movement within the Republican party to nominate Chase.",
+      "There was a movement within the Republican party to nominate Fremont.",
+      "The masses of the Republican party adhered to Lincoln.",
+      "The Republican party failed to postpone its nominating convention.",
+      "The Republican party nominated Johnson for Vice President.",
+      "The Republican party received the reluctant support of radicals.",
+      "The Republican party was damaged by Greeley's denunciations of Lincoln.",
+      "The Republican party dreaded defeat in the summer of 1864.",
+      "The Republican party was damaged by the draft.",
+      "The radical element of the Republican party forced the dismissal of Blair.",
+      "The Republican party conducted its campaign.",
+      "The Republican party gained the election in 1864.",
+      "The Republican party made the Thirteenth Amendment a plank in its platform.",
+      "Radical members of the Republican party rejoiced at the accession of Johnson after the murder of Lincoln."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 75,
+        "contradictions": [],
+        "reasoning": "The primary source focuses on the negative perception of Lincoln as a radical and threat to the Union as presented by his opponents before the election. The secondary source, while discussing the election of 1860 and Lincoln's presidency, does not directly address or contradict this specific perception presented in the primary source. Instead, the secondary source provides a broad overview of Lincoln's election, the Republican party's role, and subsequent political events and internal party dynamics. The secondary source's information is largely tangential to the specific point made in the primary source, focusing on events and perceptions *after* the election or on the broader context of the Republican party's actions and internal struggles. Therefore, there are no direct contradictions, but the secondary source does not engage with the specific content of the primary source, leading to a score that reflects contextual variance rather than high fidelity.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The primary source focuses on negative perceptions of Lincoln distributed before the election, while the secondary source details the celebratory atmosphere, office seekers, and assassination threats *following* his election. The primary source does not mention any of these post-election events or reactions."
+          },
+          {
+            "type": "omission",
+            "reason": "The primary source describes Lincoln being held up as a 'dangerous radical' and an 'enemy of the institutions of the South' by 'respectable citizens of New York' in a pre-election circular. The secondary source does not mention this specific primary source detail or the context of such pre-election criticisms."
+          }
+        ],
+        "reasoning": "* **Factual Entity Check:** The primary source mentions the 'Election Night 1860' and Lincoln's name. The secondary source also mentions '1860' and 'Abraham Lincoln'. There are no direct factual contradictions in terms of names or dates mentioned in both. However, the primary source focuses on pre-election negative perceptions, while the secondary source focuses on post-election events and broader Republican party dynamics.\n* **Context vs. Contradiction:** The secondary source adds a vast amount of information about the Republican party, its internal factions, its relationship with Lincoln, and subsequent elections and policies. This information is entirely absent from the primary source, which is a very brief description of a pre-election circular. While much of this added information might be contextually relevant to understanding Lincoln's presidency, it does not directly relate to or contradict the specific content of the primary source about the pre-election circular.\n* **Tonal Alignment:** The primary source has a factual, albeit critical, tone, describing how Lincoln was *portrayed* by others. The secondary source has a narrative tone, describing events and party dynamics. The primary source does not provide enough information to assess Lincoln's personal tone or emotions during the election night itself, only how he was characterized by a circular.\n* **Overall:** The secondary source provides a broad historical narrative surrounding Lincoln and the Republican party, much of which is not present in the very specific and limited primary source provided. The primary source focuses on a pre-election circular portraying Lincoln negatively. The secondary source focuses on the election outcome, post-election events, and the complex internal politics of the Republican party. The secondary source does not contradict the primary source's content but adds a significant amount of information that is not covered by it, leading to a moderate consistency score.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 40,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "Lincoln's account focuses on the negative perception of him as a radical and threat to the Union by some citizens, while the author's account omits this entirely and focuses on the election results, the Republican party's platform, and internal party dynamics, as well as post-election events like assassination threats and celebratory atmospheres."
+          },
+          {
+            "type": "factual",
+            "reason": "Lincoln's account describes a circular portraying him as a 'dangerous radical' and 'enemy of the institutions of the South,' implying a contentious and divisive election. The author's account, however, states 'The news of Lincoln's election in 1860 arrived throughout the day, leading to a celebratory atmosphere,' which presents a stark contrast to the tone and content of Lincoln's primary source."
+          },
+          {
+            "type": "interpretive",
+            "reason": "Lincoln's account highlights the fear and opposition he generated, suggesting a deeply divided nation. The author's account, by focusing heavily on the Republican party's internal workings and the mechanics of Lincoln's election, downplays the radical nature of the opposition and the immediate anxieties surrounding his presidency as described in the primary source."
+          }
+        ],
+        "reasoning": "The secondary source provides a broad overview of the Republican party and Lincoln's election, but it largely omits the specific concerns and negative perceptions of Lincoln that are central to his primary account. The author's description of a 'celebratory atmosphere' directly contrasts with the 'dangerous radical' framing presented by Lincoln. The extensive details about the Republican party's internal politics and subsequent events (post-election threats, party dynamics) are not present in Lincoln's brief statement, leading to a significant disconnect in focus and tone. The score reflects a substantial divergence in the information presented and the overall narrative emphasis.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Election Night 1860",
+    "author": "John Hay, John G. Nicolay",
+    "lincoln_claims": [
+      "A circular distributed before the election by respectable citizens of New York held up Lincoln as a dangerous radical and an enemy of the institutions of the South and of the peace and security of the Union, whose policies were unsettling to the commercial life of the country."
+    ],
+    "author_claims": [
+      "The authors knew Mr. Lincoln intimately before his election to the Presidency.",
+      "The election of Lincoln was perceived by slave States as a danger to their permanent political power.",
+      "Slave States believed Lincoln's election would necessarily direct national forces against the institution of slavery and suppress it through legal means."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 85,
+        "contradictions": [],
+        "reasoning": "The primary source describes a circular portraying Lincoln as a radical and a threat to the South and the Union's peace, causing commercial unease. The secondary source aligns with this by stating slave states perceived Lincoln's election as a danger to their political power and believed his election would lead to the suppression of slavery. While the primary source focuses on the *perception* of Lincoln as a radical threat, the secondary source elaborates on the *reasons* behind that perception (threat to political power, suppression of slavery). This adds context and interpretation but does not contradict the primary source's core message about how Lincoln was being portrayed and perceived.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 85,
+        "contradictions": [],
+        "reasoning": "* **Factual Entity Check:** Both texts refer to Lincoln and his election. The primary source mentions a circular from New York citizens, while the secondary source discusses the perception of slave states. No direct factual entities are contradicted.\n* **Context vs. Contradiction:** The secondary source adds context about the perception of Lincoln's election by slave states and their belief that his election would lead to the suppression of slavery. This information is not present in the primary source but does not contradict it. The secondary source states the authors knew Lincoln intimately, which is a contextual addition.\n* **Tonal Alignment:** The primary source is descriptive and factual, presenting the content of a circular. The secondary source describes the *perception* of Lincoln's election by slave states, which is an interpretation of events surrounding Lincoln, not a direct description of Lincoln's personal tone or feelings. The secondary source does not characterize Lincoln's tone directly, so there's no tonal misalignment.\n* **Final Scoring:** The secondary source provides plausible contextual information about the political climate surrounding Lincoln's election that is not present in the primary source but does not contradict it. The facts align, and there are no direct contradictions or mischaracterizations of tone. The added context about the slave states' perceptions justifies a score in the 'Contextual Variance' range.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 75,
+        "contradictions": [],
+        "reasoning": "The secondary source aligns with the primary source by stating that Lincoln was perceived as a danger by slave states. The primary source details a circular that portrayed Lincoln as a radical and a threat to the South's institutions and the Union's peace, which directly supports the secondary source's assertion that slave states viewed his election as a danger to their political power and the institution of slavery. The secondary source adds context about the slave states' belief that Lincoln would suppress slavery through legal means, which is an interpretation of the slave states' perspective rather than a direct contradiction of Lincoln's account. The secondary source also mentions the authors knew Lincoln intimately, which is background information. The score reflects that the core information is consistent, but the secondary source provides an interpretation of the slave states' motivations that goes beyond the direct statements in Lincoln's account.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Election Night 1860",
+    "author": "Henry Ketcham",
+    "lincoln_claims": [
+      "A circular distributed before the election by respectable citizens of New York held up Lincoln as a dangerous radical and an enemy of the institutions of the South and of the peace and security of the Union, whose policies were unsettling to the commercial life of the country."
+    ],
+    "author_claims": [
+      "The election occurred on the sixth day of November.",
+      "Abraham Lincoln received 1,866,452 popular votes.",
+      "Abraham Lincoln received one hundred and eighty electoral votes.",
+      "The electoral vote was officially announced in a joint session of Congress on February 13, 1861.",
+      "Abraham Lincoln was officially elected President of the United States for a four-year term beginning March 4, 1861.",
+      "There was concern among party members about the Baltimore revelations.",
+      "Many men of local influence met Lincoln during the Peace Conference.",
+      "J. G. Holland estimated that not more than one in five people in Washington in the winter of 1860-61 were glad to have Lincoln come.",
+      "Lincoln was nominated in 1860.",
+      "There was a scheme to foment discontent and division throughout the North on the eve of the presidential election."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The primary source focuses on negative perceptions of Lincoln as a radical and threat to the Union distributed by citizens before the election. The secondary source omits this aspect entirely, focusing instead on factual election results and other contextual details."
+          }
+        ],
+        "reasoning": "The secondary source provides factual details about the election of 1860, such as the date, popular and electoral vote counts, and the official announcement of the results. However, it completely omits the primary source's content, which describes negative public perception and propaganda against Lincoln distributed by 'respectable citizens' as a radical and threat to the Union. While the secondary source doesn't directly contradict the primary source, its silence on the primary source's core assertion about pre-election sentiment represents a significant omission. The secondary source adds context about other concerns (Baltimore revelations, Peace Conference, public sentiment in Washington) which are not directly related to or contradicted by the primary source's specific claim about the circular.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The primary source describes a circular that portrayed Lincoln as a radical and enemy of the South, unsettling to commercial life. The secondary source provides numerous factual details about the election (dates, vote counts, official announcements) and mentions other concerns (Baltimore revelations, Peace Conference, public sentiment in Washington, a scheme to foment discontent) that are not present in the primary source. While these are not direct contradictions, they represent significant omissions from the primary source's perspective on what was being said about Lincoln."
+          }
+        ],
+        "reasoning": "* **Factual Entity Check:** The primary source mentions a circular portraying Lincoln negatively. The secondary source provides specific election data (popular vote, electoral vote, dates of announcement and term start) and mentions other events/concerns (Baltimore revelations, Peace Conference, public sentiment in Washington, a scheme to foment discontent). There are no direct factual matches or contradictions between the *content* of the primary source's description of the circular and the secondary source's factual election data. The secondary source mentions Lincoln was nominated in 1860, which is a factual precursor to the election described.\n* **Context vs. Contradiction:** The secondary source adds a vast amount of factual context about the election itself and surrounding events that are entirely absent from the primary source's description of the circular. These are contextual additions, not interpretive leaps or contradictions of the primary source's specific content.\n* **Tonal Alignment:** The primary source's tone is descriptive of how Lincoln was portrayed by others (as a radical, enemy, unsettling). The secondary source's tone is factual and historical, reporting on the election and related events. There is no direct tonal comparison to be made as the primary source is not Lincoln's personal reflection but a description of external propaganda.\n* **Final Scoring:** The secondary source provides factual information about the election that is not contradicted by the primary source. However, the primary source focuses on specific negative propaganda Lincoln faced, while the secondary source provides a broader, factual overview of the election and its context, omitting the specific propaganda details mentioned in the primary source. This leads to a score in the 'Contextual Variance' range.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "Lincoln's account focuses on negative perceptions and fears surrounding his candidacy, while the author's account primarily details factual election results and procedural information, omitting the sentiment described by Lincoln."
+          },
+          {
+            "type": "omission",
+            "reason": "The author's account mentions 'Baltimore revelations' and a 'scheme to foment discontent' which are not present in Lincoln's provided statement."
+          }
+        ],
+        "reasoning": "The secondary source provides factual data about the 1860 election, including vote counts and the official announcement of Lincoln's victory. Lincoln's primary account, however, focuses on the negative perceptions and fears surrounding his candidacy, as evidenced by a circular from New York citizens. While the secondary source doesn't directly contradict Lincoln's statement, it omits the emotional and perceptual context that Lincoln highlights. The secondary source introduces details about election schemes and 'Baltimore revelations' that are not addressed in Lincoln's account. The score reflects that the factual information aligns, but there's a significant omission of the primary source's tone and focus, and the introduction of new, unaddressed elements in the secondary source.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Election Night 1860",
+    "author": "Baron Godfrey Rathbone Benson Charnwood",
+    "lincoln_claims": [
+      "A circular distributed before the election by respectable citizens of New York held up Lincoln as a dangerous radical and an enemy of the institutions of the South and of the peace and security of the Union, whose policies were unsettling to the commercial life of the country."
+    ],
+    "author_claims": [
+      "Abraham Lincoln was elected President of the United States.",
+      "On the night of November 6, 1860, Lincoln received election results in a telegraph box in Springfield.",
+      "Lincoln was confident of his victory before all election returns were complete.",
+      "Lincoln began planning his Cabinet on election night.",
+      "Lincoln was elected by a minority of the American people based on popular votes.",
+      "Lincoln's votes came exclusively from the Northern states; he carried almost all free states and no others.",
+      "For the first time, the united North used its superior numbers to outvote the South.",
+      "The election of Lincoln was met with derision in the South.",
+      "The Presidential election took place on November 6, 1860.",
+      "The President-elect does not enter office for nearly four months after the election.",
+      "Secession was carried in South Carolina in December following the election."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The primary source focuses on negative perceptions of Lincoln distributed before the election, portraying him as a radical threat. The secondary source omits this aspect entirely, focusing instead on the mechanics and outcomes of the election night itself."
+          }
+        ],
+        "reasoning": "The secondary source accurately reports factual details about Lincoln's election night, such as the date, his location, and his confidence. It also correctly notes the regional nature of his victory and the subsequent secession. However, it completely omits the primary source's content, which describes pre-election propaganda portraying Lincoln as a dangerous radical. While not a direct contradiction, this omission means the secondary source does not fully reflect the context provided by the primary source regarding the perception of Lincoln at the time, leading to a 'Contextual Variance' score.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The primary source describes a circular that portrayed Lincoln as a dangerous radical and enemy of the South, which is a significant piece of context for the election night that is not mentioned in the secondary source. The secondary source focuses on Lincoln's actions and the election's outcome without addressing the negative portrayal mentioned in the primary source."
+          },
+          {
+            "type": "omission",
+            "reason": "The primary source mentions that a circular held Lincoln up as unsettling to the commercial life of the country. The secondary source does not mention this specific criticism, focusing instead on broader political implications."
+          }
+        ],
+        "reasoning": "* **Factual Entity Check:**\n* Matches: November 6, 1860 (date of election), Abraham Lincoln (name).\n* Contradictions: None directly stated.\n* Hallucinations: The secondary source attributes actions and thoughts to Lincoln (receiving results, confidence, planning Cabinet) that are not present in the primary source. However, these are plausible actions for a presidential candidate on election night and not necessarily contradictions, but rather additions.\n\n* **Context vs. Contradiction (The Omission Filter):**\n* Contextual Additions: The secondary source provides significant contextual information about the election night (telegraph box, confidence, Cabinet planning, minority popular vote, North vs. South, Southern reaction, secession timing) that is entirely absent from the primary source. This information is not contradictory but adds a narrative layer.\n* Interpretive Leaps: The secondary source states Lincoln was 'confident of his victory' and 'began planning his Cabinet'. While plausible, these are interpretations of Lincoln's state of mind and actions not explicitly stated in the primary source, which focuses on how he was *portrayed* by others.\n\n* **Tonal Alignment:**\n* The primary source has a tone of reporting on how Lincoln was *perceived* by a segment of the population (as a dangerous radical, enemy, unsettling to commerce). It is analytical and descriptive of external perceptions.\n* The secondary source has a more narrative and descriptive tone, focusing on Lincoln's actions and the broader political landscape. It does not directly characterize Lincoln's *tone* but rather his *actions* and the *event's* impact.\n* The secondary source's characterization of the event as Lincoln receiving results and planning his cabinet is not inconsistent with the primary source's description of how he was *portrayed*, but it omits the crucial context of that portrayal.\n\n* **Final Scoring:**\n* The secondary source accurately identifies the election and Lincoln. However, it completely omits the core information from the primary source: the negative portrayal of Lincoln by 'respectable citizens' as a radical and enemy, and as a threat to commercial life. This omission is significant as it removes the context for *why* such an election night might be noteworthy or fraught with tension, beyond the simple fact of his victory. The secondary source adds a lot of plausible but unverified details about Lincoln's internal state and actions. The score is moderate due to the lack of direct factual contradiction but significant omission of primary source content and the addition of unverified actions/motivations.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "Lincoln's account focuses on the negative perception of him as a radical and threat to the Union, as presented by his opponents before the election. The author's account focuses on the factual outcome of the election and its immediate aftermath, omitting the pre-election sentiment described by Lincoln."
+          },
+          {
+            "type": "interpretive",
+            "reason": "Lincoln's account highlights the fear and opposition he faced, implying a contentious election. The author's account, while factual, presents Lincoln's victory and subsequent actions (planning cabinet) with a tone of confidence and inevitability, which is not directly supported or contradicted by Lincoln's statement but represents a different focus and interpretation of the event's atmosphere."
+          }
+        ],
+        "reasoning": "The secondary source provides factual details about Lincoln's election, such as the date, location of results, and the nature of his victory (minority popular vote, sectional support). These facts do not directly contradict Lincoln's primary account, which describes the pre-election propaganda against him. However, Lincoln's account emphasizes the negative perception and fear surrounding his candidacy, while the author's account focuses on the factual outcome and Lincoln's confident demeanor. The secondary source omits the specific pre-election sentiment mentioned by Lincoln and adds details about Lincoln's actions and the broader political context (North outvoting South, secession) that are not present in the primary source. The score reflects that the core facts align, but there's a significant difference in focus and tone, with the secondary source adding context and interpretation not found in the primary source, leading to a 'Contextual Variance' score.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "author": "Francis F. Browne",
+    "lincoln_claims": [
+      "The flag of the United States was flying over Fort Sumter.",
+      "Fort Sumter had not been attacked.",
+      "An attempt would be made to supply Fort Sumter with provisions only.",
+      "If the attempt to supply provisions was not resisted, no effort to throw in men, arms, or ammunition would be made, without further notice, or in case of an attack upon the Fort."
+    ],
+    "author_claims": [
+      "The United States forts and armaments on the Southern coast were delivered into the hands of the enemy, with the exception of Fort Sumter, which was gallantly held by Major Robert Anderson.",
+      "The Confederate attack upon Fort Sumter, a United States fort situated at the mouth of Charleston Harbor, South Carolina, on April 12, 1861, was the signal that civil war had actually begun.",
+      "Lincoln maintained a conciliatory policy toward the States in rebellion until their resort to arms and capture of forts and property of the United States decided the course of the administration.",
+      "Following the assault on Fort Sumter, Lincoln issued a proclamation asking for the immediate enlistment of 75,000 volunteers and summoned Congress to convene in an extra session on July 4th.",
+      "Lincoln considered withdrawing United States mails from seceded states if Fort Sumter was assaulted, believing the commencement of actual war justified it.",
+      "Following the fall of Fort Sumter on Sunday, April 14th, Stephen Douglas publicly stated his full support for the President in preserving the Union and defending the Federal capital.",
+      "Major Robert Anderson evacuated Fort Sumter in 1861.",
+      "Lincoln and Major Robert Anderson met again in 1861 after Anderson had evacuated Fort Sumter, during which Lincoln recalled Anderson mustering him into service in 1832."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "factual",
+            "reason": "Lincoln's account states Fort Sumter had not been attacked, while the secondary source states the Confederate attack upon Fort Sumter on April 12, 1861, was the signal that civil war had begun. This is a direct contradiction regarding the timing and nature of the event from Lincoln's perspective at the time."
+          },
+          {
+            "type": "factual",
+            "reason": "Lincoln's account implies an attempt to supply provisions was the immediate action, and that further actions would only occur if resisted or if the fort was attacked. The secondary source frames the event as a Confederate attack that initiated civil war and led to Lincoln's call for volunteers, suggesting a more immediate escalation than Lincoln's description implies."
+          },
+          {
+            "type": "factual",
+            "reason": "Lincoln's account does not mention the evacuation of Fort Sumter by Major Robert Anderson, nor does it mention Lincoln meeting with Anderson after the evacuation. The secondary source includes these details."
+          }
+        ],
+        "reasoning": "The secondary source provides significant context and details about the Fort Sumter event, including the Confederate attack, the start of the Civil War, Lincoln's subsequent actions (calling for volunteers), and the evacuation of the fort. However, it directly contradicts Lincoln's primary account which states the fort had not been attacked and that the immediate plan was only to supply provisions. Lincoln's account focuses on the *decision-making process* regarding provisioning, while the secondary source focuses on the *event of the attack and its aftermath*. The secondary source also adds details about Anderson's evacuation and subsequent meetings with Lincoln, which are not present in the primary source. The score reflects that while the secondary source covers the broader historical context, it misrepresents the state of affairs as described by Lincoln at the time of his account, leading to factual contradictions.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "factual",
+            "reason": "Lincoln's account states Fort Sumter had not been attacked, while the author's account states the Confederate attack upon Fort Sumter occurred on April 12, 1861, and was the signal that civil war had begun. Lincoln's account also states that if the attempt to supply provisions was not resisted, no effort to throw in men, arms, or ammunition would be made, without further notice, or in case of an attack upon the Fort, implying an attack had not yet happened or was conditional."
+          },
+          {
+            "type": "factual",
+            "reason": "Lincoln's account implies the situation at Fort Sumter was ongoing and not yet resolved with an attack, stating 'Fort Sumter had not been attacked.' The author's account states 'Major Robert Anderson evacuated Fort Sumter in 1861,' which is a factual event that Lincoln's provided account does not mention or allude to as having occurred."
+          },
+          {
+            "type": "hallucination",
+            "reason": "The author's account states 'Lincoln considered withdrawing United States mails from seceded states if Fort Sumter was assaulted, believing the commencement of actual war justified it.' This specific consideration or belief is not present in Lincoln's provided account."
+          },
+          {
+            "type": "hallucination",
+            "reason": "The author's account mentions 'Lincoln and Major Robert Anderson met again in 1861 after Anderson had evacuated Fort Sumter, during which Lincoln recalled Anderson mustering him into service in 1832.' This specific meeting and recollection are not mentioned in Lincoln's provided account."
+          }
+        ],
+        "reasoning": "* **Factual Entities:** Both mention Fort Sumter and Major Robert Anderson. However, Lincoln's account states Fort Sumter had not been attacked, while the author's account details the Confederate attack on April 12, 1861, and the subsequent evacuation by Major Anderson. This is a direct contradiction regarding the state of events.\n* **Contextual Additions/Omissions:** The author provides significant context about the broader situation (forts delivered to the enemy, civil war beginning, Lincoln's conciliatory policy, calling for volunteers, Stephen Douglas's support) that is absent from Lincoln's very specific, limited account of his intentions regarding supplying the fort. Lincoln's account focuses on the *conditions* for supplying provisions and *not* attacking, whereas the author describes events *after* an attack and evacuation.\n* **Interpretive Leaps:** The author attributes a specific consideration to Lincoln ('Lincoln considered withdrawing United States mails...') that is not present in the primary text. The author also details a meeting between Lincoln and Anderson after the evacuation, which is not in Lincoln's account.\n* **Tonal Alignment:** Lincoln's account is factual and procedural. The author's account is narrative and historical, describing the *consequences* of events that Lincoln's account suggests had not yet fully transpired or were conditional. The author's description of Lincoln's policy as 'conciliatory' before the 'resort to arms' aligns with Lincoln's stated intention to only supply provisions and not provoke further conflict, but the author's narrative moves beyond the scope of Lincoln's provided statement.\n* **Score Justification:** The score is 75 because while some core elements (Fort Sumter, Anderson) are present, there are significant factual contradictions regarding the timing and occurrence of the attack and evacuation. The author also introduces information and specific actions attributed to Lincoln that are not present in the primary source, acting as significant contextual additions and potential hallucinations. However, the author's framing of Lincoln's initial policy as conciliatory is not directly contradicted by Lincoln's own words about provisioning.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "Lincoln's account focuses solely on his stated intentions regarding supplying Fort Sumter and the condition of no attack. The author's account details the actual attack, its significance as the start of the war, Lincoln's subsequent actions (calling for volunteers, summoning Congress), and even a meeting between Lincoln and Anderson after the evacuation. These are significant omissions from Lincoln's perspective as presented."
+          },
+          {
+            "type": "interpretive",
+            "reason": "Lincoln's account presents a factual statement of his intentions and the situation. The author's account interprets Lincoln's policy as 'conciliatory' and states that the 'resort to arms and capture of forts... decided the course of the administration.' While not a direct contradiction, it adds an interpretive layer to Lincoln's actions and motivations that is not present in his own statement."
+          }
+        ],
+        "reasoning": "The secondary source aligns with the primary source on the core facts that Fort Sumter was a US fort and that Lincoln intended to supply it. However, the secondary source includes significant details about the attack, its consequences, and Lincoln's subsequent actions that are entirely absent from Lincoln's provided account. The author also adds an interpretation of Lincoln's policy as 'conciliatory' which is not explicitly stated by Lincoln in his account. These omissions and interpretive additions prevent a 'High Fidelity' score, placing it in the 'Contextual Variance' category.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "author": "John T. Morse Jr.",
+    "lincoln_claims": [
+      "The flag of the United States was flying over Fort Sumter.",
+      "Fort Sumter had not been attacked.",
+      "An attempt would be made to supply Fort Sumter with provisions only.",
+      "If the attempt to supply provisions was not resisted, no effort to throw in men, arms, or ammunition would be made, without further notice, or in case of an attack upon the Fort."
+    ],
+    "author_claims": [
+      "South Carolina besieged Fort Sumter."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "Lincoln's account states Fort Sumter had not been attacked, while the secondary source states South Carolina besieged Fort Sumter. While 'besieged' can imply actions short of direct attack, it is a stronger term than 'not attacked' and omits the nuance of Lincoln's statement that the attempt was only to supply provisions and that further actions would depend on resistance or attack."
+          }
+        ],
+        "reasoning": "Lincoln's primary account focuses on the specific, limited nature of the planned provisioning of Fort Sumter and the conditions under which further action would be taken. The secondary source's statement that 'South Carolina besieged Fort Sumter' is not a direct contradiction but is a more aggressive and less nuanced description. The term 'besieged' implies a more active and potentially hostile encirclement than Lincoln's description of an attempt to supply provisions without resistance. The secondary source omits the crucial details about the limited nature of the provisioning attempt and the conditional nature of further actions, which were central to Lincoln's account. This omission leads to a contextual variance rather than a direct contradiction, hence the score of 75.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 70,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The secondary source states South Carolina besieged Fort Sumter, which is a significant action not mentioned in Lincoln's account. Lincoln's account focuses on the *attempt* to supply provisions and the conditions under which further action would be taken, implying a tense situation but not explicitly stating a siege."
+          }
+        ],
+        "reasoning": "* **Factual Entity Check:**\n* Matches: Fort Sumter is mentioned in both.\n* Contradictions: None directly stated as facts.\n* Hallucinations: None.\n* **Context vs. Contradiction:**\n* The secondary source's claim of a 'siege' is an interpretation or contextual addition not present in Lincoln's factual, procedural description. Lincoln describes the *conditions* of supplying the fort, not the state of the fort itself being under siege.\n* **Tonal Alignment:**\n* Lincoln's account is factual and procedural ('An attempt would be made...', 'If the attempt...').\n* The secondary source's statement 'South Carolina besieged Fort Sumter' implies a more active and aggressive stance than Lincoln's description of a planned supply mission and conditional responses.\n* **Final Scoring:** The score is lowered because the secondary source introduces a significant action ('besieged') that is not directly supported by Lincoln's primary account, which focuses on the *decision-making process* regarding resupply rather than the state of the fort itself.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 40,
+        "contradictions": [
+          {
+            "type": "factual",
+            "reason": "Lincoln's account explicitly states 'Fort Sumter had not been attacked.' The author's account states 'South Carolina besieged Fort Sumter.' While a siege implies hostile action, the primary source's denial of an attack directly contradicts the implication of the secondary source's statement, especially in the context of Lincoln's careful wording about only supplying provisions and not making an effort to throw in men, arms, or ammunition unless resisted or attacked."
+          },
+          {
+            "type": "omission",
+            "reason": "Lincoln's account details the specific conditions under which further action would be taken (resistance to provisions, attack on the fort), which are omitted in the author's account. This omission simplifies the situation and removes Lincoln's stated justifications for his actions."
+          }
+        ],
+        "reasoning": "The secondary source's statement that 'South Carolina besieged Fort Sumter' directly contradicts Lincoln's primary account which states 'Fort Sumter had not been attacked.' While a siege can be interpreted in various ways, Lincoln's explicit denial of an attack, coupled with his detailed explanation of only attempting to supply provisions and the conditions for further action, suggests a deliberate framing that the secondary source's 'besieged' does not capture and potentially misrepresents. The secondary source omits crucial details about Lincoln's stated intentions and conditions, leading to a significant factual and contextual discrepancy.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "author": "John Hay, John G. Nicolay",
+    "lincoln_claims": [
+      "The flag of the United States was flying over Fort Sumter.",
+      "Fort Sumter had not been attacked.",
+      "An attempt would be made to supply Fort Sumter with provisions only.",
+      "If the attempt to supply provisions was not resisted, no effort to throw in men, arms, or ammunition would be made, without further notice, or in case of an attack upon the Fort."
+    ],
+    "author_claims": [
+      "The event of Sumter being fired on is important for younger generations to know about."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 75,
+        "contradictions": [],
+        "reasoning": "The secondary source focuses on the importance of the event for younger generations, which is a contextual framing rather than a direct reflection of Lincoln's factual account of the situation at Fort Sumter. Lincoln's account details the specific actions and intentions regarding provisioning the fort, while the secondary source offers a general statement about the event's significance. There are no direct contradictions, but the secondary source does not engage with the factual details provided by Lincoln, leading to a contextual variance rather than high fidelity.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 85,
+        "contradictions": [],
+        "reasoning": "* **STEP 1: FACTUAL ENTITY CHECK**\n* Matches: No specific factual entities like dates, locations, or numbers are present in both texts to compare directly.\n* Contradictions: None.\n* Hallucinations: None.\n* **STEP 2: CONTEXT VS. CONTRADICTION (The Omission Filter)**\n* The author's account mentions the importance of the event for younger generations, which is contextual information not present in Lincoln's account. This is a contextual addition and does not contradict.\n* **STEP 3: TONAL ALIGNMENT**\n* Lincoln's account is factual and analytical. The author's account focuses on the importance of the event for historical understanding, which is a neutral framing and does not contradict the tone.\n* **STEP 4: FINAL SCORING**\n* The secondary source adds a layer of historical significance but does not contradict any facts or the tone presented in Lincoln's account. The added information is contextual.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 20,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The author's account is extremely brief and focuses on the importance of the event for younger generations, completely omitting the factual details provided by Lincoln regarding the status of Fort Sumter, the attempt to supply provisions, and the conditions under which further action would be taken. This omission leads to a significant lack of alignment in content."
+          },
+          {
+            "type": "interpretive",
+            "reason": "While not directly contradicting Lincoln's factual statements, the author's focus on the 'importance for younger generations' suggests an interpretive framing that is not present in Lincoln's factual, descriptive account. Lincoln is stating facts about his decision-making process, not commenting on the historical significance for future learning."
+          }
+        ],
+        "reasoning": "The secondary source's account is so minimal and focused on a different aspect (historical importance for education) that it fails to reflect the factual details and the specific context provided in Lincoln's primary account. There is no direct contradiction, but the omission of all factual content and the introduction of an interpretive angle unrelated to Lincoln's stated facts results in a very low consistency score.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "author": "Henry Ketcham",
+    "lincoln_claims": [
+      "The flag of the United States was flying over Fort Sumter.",
+      "Fort Sumter had not been attacked.",
+      "An attempt would be made to supply Fort Sumter with provisions only.",
+      "If the attempt to supply provisions was not resisted, no effort to throw in men, arms, or ammunition would be made, without further notice, or in case of an attack upon the Fort."
+    ],
+    "author_claims": [
+      "The power confided to Abraham Lincoln was to be used to hold, occupy, and possess the property and places belonging to the Government, and to collect the duties and imposts.",
+      "Lincoln ordered General Scott to employ every means in his power to strengthen and hold the forts.",
+      "Major Anderson was beleaguered in Fort Sumter.",
+      "Lincoln concluded to send provisions to Fort Sumter.",
+      "On Friday, April 12th, 1861, at 3:30 P.M., General Beauregard gave notice to Major Anderson that he would open fire on Fort Sumter in one hour.",
+      "The morning after the evacuation of Fort Sumter, Lincoln issued his call for 75,000 volunteers to serve for three months.",
+      "The government had decreed that at twelve o'clock noon on a specific day, the stars and stripes should be raised above Fort Sumter."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "factual",
+            "reason": "Lincoln's account states Fort Sumter had not been attacked, while the secondary source implies an attack was imminent by stating Beauregard would open fire in one hour, and also mentions the 'evacuation of Fort Sumter' which suggests a prior conflict or surrender."
+          },
+          {
+            "type": "factual",
+            "reason": "Lincoln's account focuses on supplying provisions and not reinforcing without notice or attack. The secondary source states Lincoln ordered General Scott to 'employ every means in his power to strengthen and hold the forts,' which could imply actions beyond just provisioning and might contradict Lincoln's stated limited intent."
+          },
+          {
+            "type": "factual",
+            "reason": "Lincoln's account states an attempt would be made to supply provisions only. The secondary source mentions the government decreed the 'stars and stripes should be raised above Fort Sumter,' which suggests a symbolic act that might go beyond mere provisioning and could be interpreted as a provocative move not explicitly stated by Lincoln."
+          }
+        ],
+        "reasoning": "The secondary source generally aligns with the primary source regarding the intent to supply Fort Sumter. However, it introduces elements that suggest a more aggressive stance or impending conflict (Beauregard's notice to fire, call for volunteers after evacuation) that are not directly supported or are potentially contradicted by Lincoln's own description of the situation as not having been attacked and only an attempt to supply provisions being made. The secondary source also mentions strengthening forts, which is not detailed in Lincoln's account. These points represent contextual variance and minor factual discrepancies rather than outright distortion.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The primary source states Fort Sumter had not been attacked, but the secondary source implies an attack was imminent by stating Beauregard would open fire in one hour, which is a significant omission of Lincoln's stated intent to only supply provisions and not engage militarily unless provoked."
+          },
+          {
+            "type": "interpretive",
+            "reason": "The secondary source states Lincoln 'concluded to send provisions,' which is a factual statement, but the primary source details the specific conditions under which this would occur and the lack of prior attack, suggesting a more nuanced decision-making process than simply 'concluding' to send provisions."
+          },
+          {
+            "type": "omission",
+            "reason": "The secondary source mentions Lincoln issuing a call for volunteers after the evacuation, but the primary source focuses solely on the decision to supply provisions and the state of the fort prior to any attack, omitting the subsequent military actions."
+          }
+        ],
+        "reasoning": "* **Factual Entity Check:**\n    * **Matches:** Fort Sumter, Lincoln, Major Anderson, provisions, attack (mentioned as not having occurred in primary, but implied as imminent in secondary).\n    * **Contradictions:** No direct factual contradictions in terms of names or locations. However, the secondary source's timeline of Beauregard's notice to fire contradicts Lincoln's account of the fort not having been attacked and the intent to only supply provisions.\n    * **Hallucinations:** The secondary source attributes the decision to send provisions to Lincoln, which is consistent with the primary source's intent to supply, but the primary source provides the specific conditions and context for this decision that are absent in the secondary source's simplified statement.\n* **Context vs. Contradiction (The Omission Filter):**\n    * **Contextual Additions:** The secondary source adds details about Lincoln's powers, General Scott's orders, and the call for volunteers, which provide broader context but are not directly addressed in Lincoln's specific account of the Fort Sumter situation.\n    * **Interpretive Leaps:** The secondary source's statement that Lincoln 'concluded to send provisions' is a simplification. Lincoln's account details a conditional approach: supply only, no attack unless provoked. The secondary source omits these crucial conditions.\n* **Tonal Alignment:**\n    * Lincoln's account is factual and analytical, describing the state of affairs and the planned actions. The secondary source, while not overtly emotional, presents a narrative that leads to the conflict, implying a more active and perhaps confrontational stance than Lincoln's precise wording suggests.\n    * The secondary source's description of the events leading to the firing on Fort Sumter, while factually accurate in its own right, omits the specific conditional nature of Lincoln's decision as presented in his account, creating a slight divergence in the portrayal of the immediate decision-making.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "Lincoln's account focuses solely on his intentions regarding provisioning Fort Sumter and the conditions under which further action would be taken. It omits any mention of the existing beleaguered state of Major Anderson, the government's decree to raise the flag, or the actual bombardment and subsequent call for volunteers, which are significant details present in the author's account."
+          },
+          {
+            "type": "interpretive",
+            "reason": "The author's account frames Lincoln's actions within a broader context of holding and possessing government property and collecting duties, and mentions the decree to raise the flag. While Lincoln's account states the flag was flying and the intent was to supply provisions, it doesn't explicitly state the 'power confided' to Lincoln in the way the author does, suggesting a more proactive assertion of authority than directly stated in Lincoln's own words."
+          }
+        ],
+        "reasoning": "The secondary source provides a broader historical context and narrative surrounding the Fort Sumter event, including details about the bombardment and Lincoln's subsequent actions (call for volunteers) that are not present in Lincoln's primary account. Lincoln's account focuses narrowly on his stated intentions regarding provisioning the fort and the conditions for further action. While there are no direct factual contradictions, the secondary source adds significant context and interpretation (e.g., Lincoln's 'power confided,' the decree to raise the flag) that goes beyond the explicit statements in Lincoln's account. The omission of the actual attack and the call for volunteers from Lincoln's statement, while present in the author's account, also contributes to a variance in the presented narrative. The score reflects that the facts align in terms of Lincoln's intent to provision, but the secondary source adds substantial narrative and interpretive elements not found in the primary source, leading to a 'Contextual Variance'.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "author": "Baron Godfrey Rathbone Benson Charnwood",
+    "lincoln_claims": [
+      "The flag of the United States was flying over Fort Sumter.",
+      "Fort Sumter had not been attacked.",
+      "An attempt would be made to supply Fort Sumter with provisions only.",
+      "If the attempt to supply provisions was not resisted, no effort to throw in men, arms, or ammunition would be made, without further notice, or in case of an attack upon the Fort."
+    ],
+    "author_claims": [
+      "The secession of South Carolina was not a movement that could be immediately quelled by prompt repressive measures.",
+      "Lincoln's administration was prepared to defend other forts, such as Fort Pickens on the Gulf of Mexico.",
+      "Lincoln reserved his judgment on the Fort Sumter situation for a considerable period.",
+      "Lincoln declared he would take no provocative step regarding the secession crisis.",
+      "Seward proposed a program that suggested he should control all policy.",
+      "Lincoln decided to send provisions, but not troops, to Fort Sumter.",
+      "The decision to send provisions to Fort Sumter was made after Senators and Congressmen indicated Northern opinion would support it.",
+      "The decision to send provisions to Fort Sumter was taken perilously late, exposing the government to the risk of humiliation.",
+      "Jefferson Davis ordered Beauregard to reduce Fort Sumter.",
+      "Confederate batteries opened fire on Fort Sumter on April 12, 1861.",
+      "Fort Sumter became untenable on April 13, 1861.",
+      "Anderson capitulated on April 14, 1861, marching out with the honors of war.",
+      "The Union flag was fired upon by Confederates, leading the North to spring to arms.",
+      "Following the bombardment of Fort Sumter, President Lincoln issued a Proclamation calling for 75,000 militia men.",
+      "The affair of Fort Sumter and Lincoln's Proclamation aroused and concentrated public opinion in the free Northern States and in the seceded States.",
+      "President Jefferson Davis had more than double the number of the United States Army at his command before any shots were fired at Fort Sumter.",
+      "On April 14, 1865, the Union flag was hoisted again on Fort Sumter by General Anderson."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "Lincoln's account states Fort Sumter had not been attacked, while the author's account details the Confederate attack and capitulation, which is a significant omission from Lincoln's perspective as presented."
+          },
+          {
+            "type": "interpretive",
+            "reason": "Lincoln's account focuses on the immediate plan for provisions and the conditions for further action. The author's account adds layers of political maneuvering, Seward's proposals, and the timing of the decision relative to Northern opinion, which are not present in Lincoln's direct statement."
+          }
+        ],
+        "reasoning": "The secondary source aligns with the primary source on the core decision to send provisions only and the initial state of affairs (flag flying, no attack). However, the secondary source provides extensive context, political background, and details about the subsequent events (attack, capitulation, Lincoln's proclamation) that are not present in Lincoln's brief account. While these additions are not direct contradictions, they represent significant 'added coloring' and interpretive framing that goes beyond the direct statements of the primary source. The omission of the actual attack and surrender from Lincoln's perspective as presented in his account is also notable.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 85,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The primary source states 'Fort Sumter had not been attacked.' The secondary source states 'Confederate batteries opened fire on Fort Sumter on April 12, 1861.' While Lincoln's account describes the *decision-making process* before the attack, the secondary source describes the *event of the attack itself*, which is a significant omission from Lincoln's direct account of his decision-making."
+          },
+          {
+            "type": "omission",
+            "reason": "The primary source focuses on Lincoln's stated intentions regarding supplying Fort Sumter. The secondary source details the subsequent events of the attack, capitulation, and Lincoln's call for militia, which are not covered in Lincoln's provided account of his decision."
+          },
+          {
+            "type": "interpretive",
+            "reason": "The secondary source states 'Lincoln reserved his judgment on the Fort Sumter situation for a considerable period' and 'The decision to send provisions to Fort Sumter was taken perilously late, exposing the government to the risk of humiliation.' While Lincoln's account implies a deliberative process, the secondary source adds an interpretation of 'perilously late' and 'risk of humiliation' which is not explicitly stated or implied by the tone of Lincoln's account."
+          }
+        ],
+        "reasoning": "* **Factual Entity Check:**\n* **Matches:** The core fact that Lincoln decided to send provisions, but not troops, to Fort Sumter is present in both accounts. The presence of the US flag over Fort Sumter is also mentioned in Lincoln's account and implied by the context of the secondary source.\n* **Contradictions:** No direct factual contradictions are present regarding the *decision-making process* described by Lincoln. However, the secondary source describes events (the attack, capitulation) that occurred *after* the decision-making process Lincoln detailed, and which are not mentioned in his account.\n* **Hallucinations:** The secondary source does not attribute any specific quotes or actions to Lincoln that are not at least implied by the context of his decision-making process.\n\n* **Context vs. Contradiction (The Omission Filter):**\n* **Contextual Additions:** The secondary source provides extensive historical context, including the secession of South Carolina, the defense of other forts, Seward's proposal, the political climate influencing Lincoln's decision, the actions of Jefferson Davis, the timeline of the bombardment and capitulation, and Lincoln's subsequent call for militia. These are all contextual additions that elaborate on the situation surrounding Lincoln's decision.\n* **Interpretive Leaps:** The secondary source interprets Lincoln's decision-making as being 'perilously late' and exposing the government to 'risk of humiliation.' This is an interpretive leap not directly supported by the factual, descriptive tone of Lincoln's primary account.\n\n* **Tonal Alignment:**\n* Lincoln's account is factual and descriptive, focusing on the conditions and intentions of his decision. The secondary source, while reporting facts, also includes interpretive language ('perilously late,' 'risk of humiliation') and describes the dramatic events of the attack and its aftermath. The tone of Lincoln's account is analytical/cold, while the historian's description of the *situation and its consequences* is more narrative and evaluative. The historian's characterization of the *event* is consistent with historical accounts, but the interpretation of Lincoln's *decision* as 'perilously late' adds a layer not present in Lincoln's own description of his decision-making.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "Lincoln's account focuses solely on his stated intentions regarding provisioning Fort Sumter and the lack of attack. The author's account provides extensive context about the political climate, Seward's role, Jefferson Davis's actions, the actual bombardment, capitulation, and the subsequent call for militia, none of which are present in Lincoln's limited statement."
+          },
+          {
+            "type": "interpretive",
+            "reason": "Lincoln's account is a factual statement of his intentions. The author's account interprets Lincoln's decision-making process, suggesting it was 'perilously late' and influenced by political considerations ('Senators and Congressmen indicated Northern opinion would support it'), which are not directly stated or implied in Lincoln's own words."
+          }
+        ],
+        "reasoning": "Lincoln's primary source statement is a factual declaration of his intent to provision Fort Sumter without provocation. The secondary source provides a much broader historical narrative, including political maneuvering, the actions of the Confederacy, and the eventual outbreak of hostilities. While the secondary source does not directly contradict Lincoln's stated intentions regarding provisioning, it adds significant context and interpretation about the political climate and the timing of decisions. The author's account also includes details about the actual attack and surrender, which are absent from Lincoln's statement. The score reflects that the core facts of Lincoln's stated intent are present, but the secondary source adds substantial interpretive layers and omits the limited scope of Lincoln's direct account.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Gettysburg Address",
+    "author": "Francis F. Browne",
+    "lincoln_claims": [
+      "Four score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that \"all men are created equal.\"",
+      "Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure.",
+      "We are met on a great battle field of that war.",
+      "We have come to dedicate a portion of it, as a final resting place for those who died here, that the nation might live.",
+      "The brave men, living and dead, who struggled here, have hallowed it, far above our poor power to add or detract.",
+      "The world will little note, nor long remember what we say here; while it can never forget what they did here.",
+      "It is rather for us, the living, we here be dedicated to the great task remaining before us that, from these honored dead we take increased devotion to that cause for which they here, gave the last full measure of devotion",
+      "that we here highly resolve these dead shall not have died in vain",
+      "that the nation shall have a new birth of freedom",
+      "and that government of the people by the people for the people, shall not perish from the earth."
+    ],
+    "author_claims": [
+      "The Gettysburg Address was delivered at the dedication of the National Cemetery at Gettysburg.",
+      "The address is described as Lincoln's most eloquent and touching public appeal, possibly second only to the Gettysburg oration.",
+      "Gladstone of England commented on the address, seeing in it the effect of sharp trial to raise men to a higher level of thought and action.",
+      "Gladstone stated that Lincoln's words showed that anxiety and sorrow had wrought their true effect upon him.",
+      "The address begins by referencing the nation's founding fathers who brought forth a new nation conceived in liberty and dedicated to the proposition that all men are created equal.",
+      "The address acknowledges the ongoing Civil War as a test of whether a nation conceived in liberty can endure.",
+      "The address calls for the living to dedicate themselves to the unfinished work of those who fought at Gettysburg.",
+      "The address expresses the hope that the nation shall have a new birth of freedom.",
+      "The address articulates the concept of government of the people, by the people, for the people, and states it shall not perish from the earth.",
+      "The address contains phrases such as 'The fiery trial through which we pass will light us down, in honor or dishonor, to the latest generation.'",
+      "The address asserts that 'We say we are for the Union. The world will not forget that we say this.'",
+      "The address states, 'We know how to save the Union. The world knows we do know how to save it.'",
+      "The address declares, 'We--even we here--hold the power and bear the responsibility.'",
+      "The address links the assurance of freedom for the free to giving freedom to the slave.",
+      "The address states, 'We shall nobly save, or meanly lose, the last best hope of earth.'",
+      "The address suggests a way that is 'plain, peaceful, generous, just--a way which, if followed, the world will forever applaud, and God must forever bless.'",
+      "The Gettysburg Address was rewritten many times.",
+      "The Gettysburg Address is considered the world's model.",
+      "The text of the Gettysburg Address is found on pages 512-515.",
+      "There is an appreciation of Lincoln's Gettysburg Address mentioned on page 513.",
+      "The Gettysburg dedication is mentioned on pages 512-515."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "factual",
+            "reason": "The secondary source includes several direct quotes and paraphrases that are not present in the provided text of Lincoln's Gettysburg Address, such as 'The fiery trial through which we pass will light us down, in honor or dishonor, to the latest generation,' 'We say we are for the Union. The world will not forget that we say this,' and 'We know how to save the Union. The world knows we do know how to save it.' These appear to be misattributions or from a different version of the speech."
+          },
+          {
+            "type": "factual",
+            "reason": "The secondary source states 'The address is described as Lincoln's most eloquent and touching public appeal, possibly second only to the Gettysburg oration.' This is a subjective interpretation and comparison not present in Lincoln's own words."
+          },
+          {
+            "type": "factual",
+            "reason": "The secondary source claims 'The Gettysburg Address was rewritten many times.' While there are variations in transcripts, this statement implies a significant amount of revision that is not directly supported by the provided primary text."
+          },
+          {
+            "type": "factual",
+            "reason": "The secondary source states 'The address links the assurance of freedom for the free to giving freedom to the slave.' This specific linkage is not explicitly stated in the provided text of the address."
+          }
+        ],
+        "reasoning": "The secondary source accurately captures the core themes and opening lines of the Gettysburg Address, aligning well with Lincoln's primary account regarding the nation's founding, the Civil War's purpose, and the dedication of the cemetery. However, it introduces several direct quotes and specific interpretations that are not present in the provided primary text, suggesting it may be drawing from a different version of the speech or external commentary not directly reflected in Lincoln's own words. The claims about the address being rewritten many times and its comparison to other orations are also external interpretations. Despite these discrepancies, the fundamental message and historical context are largely consistent, leading to a score in the 'Contextual Variance' range.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The secondary source includes numerous direct quotes attributed to Lincoln ('The fiery trial through which we pass will light us down, in honor or dishonor, to the latest generation.', 'We say we are for the Union. The world will not forget that we say this.', etc.) that are not present in the provided primary source text of the Gettysburg Address. While these might be from other speeches or versions, they are not in the given primary text."
+          },
+          {
+            "type": "omission",
+            "reason": "The secondary source states the address was 'rewritten many times' and is considered the 'world's model,' and provides page numbers for the text and appreciation. These details are not present in Lincoln's provided account."
+          },
+          {
+            "type": "omission",
+            "reason": "The secondary source mentions Gladstone's comments and interpretations of Lincoln's state of mind ('seeing in it the effect of sharp trial to raise men to a higher level of thought and action,' 'anxiety and sorrow had wrought their true effect upon him') which are not part of Lincoln's direct account."
+          }
+        ],
+        "reasoning": "* **Factual Entity Check:** The core themes and opening lines of the address (founding fathers, liberty, equality, Civil War as a test, dedication to the cause, new birth of freedom, government of the people) are present in both sources, indicating factual alignment on the main points.\n* **Contextual Additions:** The secondary source provides context such as the location (dedication of National Cemetery), the speaker (Lincoln), and external commentary (Gladstone). It also includes specific phrases and assertions not found in the provided primary text, which could be considered 'hallucinations' relative to the given primary source, or contextual additions from other sources.\n* **Tonal Alignment:** The primary source is solemn, resolute, and forward-looking. The secondary source describes it as 'eloquent and touching' and notes Gladstone's interpretation of Lincoln's 'anxiety and sorrow,' which aligns with a serious tone but adds an interpretive layer.\n* **Omissions:** The secondary source contains significant information (specific quotes, details about rewriting, external commentary, page numbers) that is entirely absent from the provided primary source text. This leads to a moderate score as the secondary source goes beyond the provided primary text without direct contradiction, but includes information not verifiable within the given primary source.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "interpretive",
+            "reason": "The author's account includes interpretations of the address's impact and Lincoln's intent (e.g., 'most eloquent and touching public appeal,' 'possibly second only to the Gettysburg oration,' 'Gladstone stated that Lincoln's words showed that anxiety and sorrow had wrought their true effect upon him') which are not directly present in Lincoln's own words. While not contradictory, these are added layers of interpretation."
+          },
+          {
+            "type": "omission",
+            "reason": "Lincoln's account focuses on the core message of dedication and the enduring principles of the nation. The author's account includes several direct quotes ('The fiery trial through which we pass will light us down, in honor or dishonor, to the latest generation,' 'We say we are for the Union. The world will not forget that we say this,' etc.) that are not present in the provided excerpt of Lincoln's speech. This suggests the author's account is drawing from a more complete or different version of the speech than what is presented as Lincoln's Account."
+          },
+          {
+            "type": "factual",
+            "reason": "The author's account states, 'The Gettysburg Address was rewritten many times.' This is a factual claim about the speech's history that is not addressed in Lincoln's primary account. While not a contradiction of Lincoln's words, it's an external piece of information presented as fact."
+          },
+          {
+            "type": "factual",
+            "reason": "The author's account states, 'The Gettysburg Address is considered the world's model.' This is an external assessment and not part of Lincoln's direct account."
+          }
+        ],
+        "reasoning": "The secondary source accurately captures the main themes and key phrases of Lincoln's Gettysburg Address, such as the reference to the nation's founding, the test of the Civil War, the dedication of the battlefield, the call to the living, the 'new birth of freedom,' and the concept of 'government of the people, by the people, for the people.' However, the author's account introduces external interpretations (e.g., Gladstone's comments, the speech being 'eloquent and touching') and includes specific phrases and factual claims about the speech's history and reception (e.g., 'rewritten many times,' 'world's model,' specific quotes not in the provided primary text) that go beyond what is directly stated or implied in Lincoln's own words. These additions provide context and analysis but also represent a departure from strict fidelity to the provided primary source excerpt. The score reflects that the core message is consistent, but significant interpretive coloring and additional factual claims are present.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Gettysburg Address",
+    "author": "John T. Morse Jr.",
+    "lincoln_claims": [
+      "Four score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that \"all men are created equal.\"",
+      "Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure.",
+      "We are met on a great battle field of that war.",
+      "We have come to dedicate a portion of it, as a final resting place for those who died here, that the nation might live.",
+      "The brave men, living and dead, who struggled here, have hallowed it, far above our poor power to add or detract.",
+      "The world will little note, nor long remember what we say here; while it can never forget what they did here.",
+      "It is rather for us, the living, we here be dedicated to the great task remaining before us that, from these honored dead we take increased devotion to that cause for which they here, gave the last full measure of devotion",
+      "that we here highly resolve these dead shall not have died in vain",
+      "that the nation shall have a new birth of freedom",
+      "and that government of the people by the people for the people, shall not perish from the earth."
+    ],
+    "author_claims": [
+      "The Battle of Gettysburg was a famous and bloody fight that lasted for three days in midsummer.",
+      "The battle involved two great armies struggling in a desperate grapple with not unequal valor.",
+      "The fighting was determined, with significant casualties, and took place at locations including Cemetery Ridge, Little Round Top, and Culp's Hill.",
+      "A stone on the battlefield marks the spot where the tide of rebellion reached its highest point and began to ebb.",
+      "The national military cemetery at Gettysburg was consecrated on November 19.",
+      "Edward Everett was invited to deliver the oration at the consecration, and the President was also invited as a guest.",
+      "President Lincoln delivered a speech at the consecration, beginning with 'Fourscore and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal.'",
+      "Lincoln's speech stated that the Civil War was testing whether a nation conceived in liberty and dedicated to equality could endure.",
+      "He urged the living to dedicate themselves to the unfinished work of those who fought and died, to take increased devotion to the cause, and to resolve that the dead would not have died in vain.",
+      "Lincoln expressed hope for a new birth of freedom and that government of the people, by the people, for the people, would not perish.",
+      "On April 11, a crowd gathered before the White House seeking a speech from the President.",
+      "The President spoke to the crowd, turning the acclamation towards those who had a 'harder part' in the cause for rejoicing."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "The secondary source accurately reflects the key points and tone of Lincoln's Gettysburg Address. It correctly identifies the opening lines, the central theme of the Civil War testing the nation's endurance, the purpose of dedicating the battlefield, and the call for the living to dedicate themselves to the cause. The secondary source also correctly summarizes Lincoln's hope for a 'new birth of freedom' and the preservation of democratic government. The mention of the date of the consecration (November 19) and the invitation to Edward Everett are contextual details that do not contradict Lincoln's speech. The final paragraph about a speech on April 11 is extraneous to the Gettysburg Address itself but does not contradict the primary source's content regarding that specific event.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 95,
+        "contradictions": [
+          {
+            "type": "omission",
+            "reason": "The secondary source mentions Lincoln speaking to a crowd at the White House on April 11th, which is not present in the provided primary source text of the Gettysburg Address."
+          }
+        ],
+        "reasoning": "* **Factual Entity Check:**\n    * **Matches:** \"Four score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that 'all men are created equal.'\" is directly quoted in both. The secondary source accurately states Lincoln's speech was about the Civil War testing the endurance of such a nation, and that he urged the living to dedicate themselves to the cause and resolve the dead would not have died in vain, hoping for a new birth of freedom and the survival of government of the people, by the people, for the people.\n    * **Contradictions:** None found.\n    * **Hallucinations:** The secondary source mentions Lincoln speaking to a crowd at the White House on April 11th. This event and date are not present in the provided primary source text of the Gettysburg Address.\n* **Context vs. Contradiction:**\n    * **Contextual Additions:** The secondary source provides context about the Battle of Gettysburg (duration, location, significance) and the consecration ceremony (date, attendees), which are not in Lincoln's speech but are relevant background.\n    * **Interpretive Leaps:** None identified. The secondary source accurately reflects the content and intent of Lincoln's speech.\n* **Tonal Alignment:**\n    * Lincoln's text is solemn, reflective, and resolute. The secondary source's description of the speech's content aligns with this tone. There is no indication of the historian characterizing it as \"Passionate/Angry\" or any other tone that would contradict Lincoln's words.\n* **Final Scoring Rationale:** The secondary source is highly faithful to the primary text, accurately reflecting its core message and key phrases. The only discrepancy is the inclusion of an unrelated event (April 11th White House speech) not present in the provided primary source, which is an omission of context rather than a contradiction of the Gettysburg Address itself. This warrants a high fidelity score.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "The author's account provides excellent historical context for Lincoln's Gettysburg Address, accurately summarizing the key points and themes of the speech. It correctly identifies the opening lines, the central message about the war testing the nation's ideals, the call to dedication for the living, and the concluding vision of a 'new birth of freedom' and enduring democratic government. The secondary source also correctly places the speech within the context of the Battle of Gettysburg and its consecration as a national cemetery, mentioning Edward Everett as the main orator. The inclusion of details about the crowd gathering at the White House and Lincoln's subsequent speech is additional context that does not contradict the primary source. The score reflects a very high degree of fidelity, with the secondary source accurately reflecting the primary facts and tone, and any added information serving as relevant background.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Gettysburg Address",
+    "author": "John Hay, John G. Nicolay",
+    "lincoln_claims": [
+      "Four score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that \"all men are created equal.\"",
+      "Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure.",
+      "We are met on a great battle field of that war.",
+      "We have come to dedicate a portion of it, as a final resting place for those who died here, that the nation might live.",
+      "The brave men, living and dead, who struggled here, have hallowed it, far above our poor power to add or detract.",
+      "The world will little note, nor long remember what we say here; while it can never forget what they did here.",
+      "It is rather for us, the living, we here be dedicated to the great task remaining before us that, from these honored dead we take increased devotion to that cause for which they here, gave the last full measure of devotion",
+      "that we here highly resolve these dead shall not have died in vain",
+      "that the nation shall have a new birth of freedom",
+      "and that government of the people by the people for the people, shall not perish from the earth."
+    ],
+    "author_claims": [
+      "The Gettysburg speech is dissimilar to Lincoln's inaugural addresses, much like 'The Comedy of Errors' is dissimilar to 'Hamlet'."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 40,
+        "contradictions": [
+          {
+            "type": "interpretive",
+            "reason": "The secondary source uses a literary analogy ('The Comedy of Errors' vs. 'Hamlet') to describe the dissimilarity between the Gettysburg Address and Lincoln's inaugural addresses. This analogy is subjective and does not directly engage with the content or purpose of the Gettysburg Address as presented in the primary source. The primary source focuses on the dedication of the battlefield, the sacrifice of soldiers, and the preservation of the nation, while the analogy is a stylistic comparison that doesn't reflect the core message or historical context of the speech."
+          }
+        ],
+        "reasoning": "The secondary source's statement is an interpretive comparison that does not engage with the factual content or the profound historical and emotional context of the Gettysburg Address. While it doesn't directly contradict the words spoken, it offers a superficial and irrelevant comparison that fails to acknowledge the substance of Lincoln's speech. The analogy is so removed from the actual content and purpose of the address that it mischaracterizes the nature of the comparison being made, leading to a low consistency score.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 75,
+        "contradictions": [],
+        "reasoning": "* **STEP 1: FACTUAL ENTITY CHECK**\n* **Matches:** No specific factual entities (dates, locations, names, numbers) are mentioned in the secondary source to directly compare with Lincoln's account.\n* **Contradictions:** None.\n* **Hallucinations:** None.\n* **STEP 2: CONTEXT VS. CONTRADICTION (The Omission Filter)**\n* The secondary source makes an analogy comparing the Gettysburg Address to Lincoln's inaugural addresses and then uses a literary comparison ('The Comedy of Errors' vs. 'Hamlet'). This is an interpretive addition and not directly present in Lincoln's text. It provides context for the *dissimilarity* but doesn't contradict any facts within the Gettysburg Address itself.\n* **STEP 3: TONAL ALIGNMENT**\n* Lincoln's address is solemn, dedicatory, and forward-looking. The secondary source's statement about dissimilarity doesn't directly comment on the *tone* of the Gettysburg Address itself, but rather its relationship to other speeches. The analogy used ('Comedy of Errors' vs. 'Hamlet') suggests a difference in complexity or purpose, which is a plausible interpretation of stylistic differences between speeches, but not a direct tonal comparison.\n* **STEP 4: FINAL SCORING**\n* The secondary source does not contradict any facts or the overall solemn tone of the Gettysburg Address. It offers an interpretation of its distinctiveness from other speeches. The analogy is an interpretive addition, not a factual claim about the content of the address itself. Therefore, it falls into the 'Contextual Variance' category.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 40,
+        "contradictions": [
+          {
+            "type": "interpretive",
+            "reason": "The secondary source uses a literary analogy ('The Comedy of Errors' vs. 'Hamlet') to describe the dissimilarity between the Gettysburg Address and Lincoln's inaugural addresses. This analogy is subjective and does not directly engage with the content, themes, or factual assertions of the Gettysburg Address itself. It offers an interpretation of stylistic or thematic difference without providing concrete evidence or analysis related to the primary source's substance."
+          }
+        ],
+        "reasoning": "The secondary source offers a highly abstract and literary comparison that does not engage with the factual content or stated purpose of the Gettysburg Address. While it doesn't directly contradict the primary source, it fails to reflect or analyze its substance, making the consistency very low. The analogy implies a significant difference without explaining what that difference is in relation to the actual speech, leading to a mischaracterization of the relationship between the texts.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Gettysburg Address",
+    "author": "Henry Ketcham",
+    "lincoln_claims": [
+      "Four score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that \"all men are created equal.\"",
+      "Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure.",
+      "We are met on a great battle field of that war.",
+      "We have come to dedicate a portion of it, as a final resting place for those who died here, that the nation might live.",
+      "The brave men, living and dead, who struggled here, have hallowed it, far above our poor power to add or detract.",
+      "The world will little note, nor long remember what we say here; while it can never forget what they did here.",
+      "It is rather for us, the living, we here be dedicated to the great task remaining before us that, from these honored dead we take increased devotion to that cause for which they here, gave the last full measure of devotion",
+      "that we here highly resolve these dead shall not have died in vain",
+      "that the nation shall have a new birth of freedom",
+      "and that government of the people by the people for the people, shall not perish from the earth."
+    ],
+    "author_claims": [
+      "The Gettysburg Address is noted for its majesty, classic simplicity, and elegance.",
+      "The Gettysburg Address was delivered at the dedication of the Gettysburg cemetery.",
+      "The Gettysburg Address begins with the phrase 'Fourscore and seven years ago, our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal.'",
+      "The address states that the living should be dedicated to the unfinished work advanced by those who fought at Gettysburg."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "The secondary source accurately summarizes key points of the Gettysburg Address, including its opening phrase, its purpose (dedication of the cemetery), and its central message about the living dedicating themselves to the cause of those who died. The description of the address as having 'majesty, classic simplicity, and elegance' is an interpretive coloring that does not contradict the primary source and is a common assessment of the speech. All factual elements align perfectly.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "* **Factual Entity Check:**\n    * **Matches:** The secondary source accurately quotes the opening phrase of the Gettysburg Address, \"Fourscore and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that 'all men are created equal.'\" It also correctly states the address was delivered at the dedication of the Gettysburg cemetery and that the living should be dedicated to the unfinished work.\n    * **Contradictions:** None.\n    * **Hallucinations:** None.\n* **Context vs. Contradiction:**\n    * **Contextual Additions:** The secondary source describes the address as having \"majesty, classic simplicity, and elegance.\" While not explicitly stated in Lincoln's words, these are widely accepted descriptors of the speech and serve as contextual framing rather than factual claims that could be contradicted.\n    * **Interpretive Leaps:** None.\n* **Tonal Alignment:**\n    * Lincoln's text, while solemn and profound, is not overtly emotional in the way one might expect from a \"passionate\" speech. However, the secondary source's description of \"majesty, classic simplicity, and elegance\" is consistent with the overall gravitas and impact of the address, and does not create a tonal mismatch.\n* **Final Scoring:** The secondary source accurately reflects the key factual elements and the general sentiment of Lincoln's Gettysburg Address. The descriptive elements are appropriate contextual framing and do not contradict the primary source. Therefore, a high fidelity score is warranted.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "The author's account accurately reflects the core message and key phrases of Lincoln's Gettysburg Address. It correctly identifies the event, the opening line, and the central theme of dedicating the living to the cause for which the dead fought. The secondary source provides context and highlights the stylistic qualities (majesty, simplicity, elegance) which are consistent with the primary source's tone and impact, without introducing any factual contradictions or significant omissions.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Gettysburg Address",
+    "author": "Baron Godfrey Rathbone Benson Charnwood",
+    "lincoln_claims": [
+      "Four score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that \"all men are created equal.\"",
+      "Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure.",
+      "We are met on a great battle field of that war.",
+      "We have come to dedicate a portion of it, as a final resting place for those who died here, that the nation might live.",
+      "The brave men, living and dead, who struggled here, have hallowed it, far above our poor power to add or detract.",
+      "The world will little note, nor long remember what we say here; while it can never forget what they did here.",
+      "It is rather for us, the living, we here be dedicated to the great task remaining before us that, from these honored dead we take increased devotion to that cause for which they here, gave the last full measure of devotion",
+      "that we here highly resolve these dead shall not have died in vain",
+      "that the nation shall have a new birth of freedom",
+      "and that government of the people by the people for the people, shall not perish from the earth."
+    ],
+    "author_claims": [
+      "The Gettysburg Address was delivered on November 19, 1863, at the dedication of a National Cemetery on the battlefield of Gettysburg.",
+      "Edward Everett was the main orator at the ceremony where Lincoln's speech was given.",
+      "President Lincoln was asked to say a few words at the close of the ceremony.",
+      "The Gettysburg Address begins with the phrase 'Four score and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal.'",
+      "The speech discusses the ongoing Civil War as a test of whether a nation conceived in liberty and dedicated to equality can endure.",
+      "The purpose of the gathering was to dedicate a portion of the field as a resting place for those who died there.",
+      "The speech emphasizes that the soldiers who fought and died have consecrated the ground far beyond any words spoken.",
+      "It calls for the living to be dedicated to the unfinished work and the great task remaining before them, drawing inspiration from the fallen.",
+      "The speech resolves that the dead shall not have died in vain and that the nation shall have a new birth of freedom.",
+      "The Gettysburg Address concludes with the famous phrase 'government of the people, by the people, for the people, shall not perish from the earth.'",
+      "The Gettysburg Address is considered a chief outstanding example of Lincoln's peculiar oratorical power, noted for its singular perfection of form."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "The secondary source accurately reflects the key points and tone of Lincoln's Gettysburg Address. It provides contextual information such as the date, location, and the presence of Edward Everett, which do not contradict the primary source. The secondary source effectively summarizes the main themes and phrases of the speech, demonstrating high fidelity to the primary account. The inclusion of the speech's reception as an 'outstanding example of Lincoln's peculiar oratorical power' is an interpretation of its significance, not a contradiction of its content.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "* **Factual Entity Check:**\n    * **Matches:** Both sources agree on the core message and key phrases of the Gettysburg Address, including the opening ('Four score and seven years ago...') and closing ('government of the people, by the people, for the people...'). Both mention the context of the Civil War and the dedication of a battlefield cemetery.\n    * **Contradictions:** None.\n    * **Hallucinations:** None. The secondary source accurately quotes and paraphrases Lincoln's address.\n* **Context vs. Contradiction:**\n    * **Contextual Additions:** The secondary source provides contextual information not present in Lincoln's direct words, such as the date (November 19, 1863), the name of the main orator (Edward Everett), and the fact that Lincoln was asked to say a few words. It also notes the speech is considered an example of Lincoln's oratorical power. These are all plausible and do not contradict the primary source.\n    * **Interpretive Leaps:** None.\n* **Tonal Alignment:**\n    * The secondary source describes the speech as an 'outstanding example of Lincoln's peculiar oratorical power, noted for its singular perfection of form.' This aligns with the profound and carefully crafted nature of Lincoln's words in the primary source, which, while solemn, carries immense weight and purpose. The tone is consistent.\n* **Final Scoring:** The secondary source accurately reflects the primary facts and tone. The added information is purely contextual and does not contradict the primary source. Therefore, a high fidelity score is warranted.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "The author's account provides excellent contextual information about the Gettysburg Address, including the date, location, other speakers, and Lincoln's role. It accurately summarizes the key points and themes of Lincoln's speech, directly quoting or paraphrasing significant portions. The secondary source does not contradict the primary source and enhances understanding by providing background and noting the speech's historical significance and stylistic merit. The added details are purely contextual and do not alter the meaning or intent of Lincoln's words.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Second Inaugural Address",
+    "author": "Francis F. Browne",
+    "lincoln_claims": [
+      "At this second appearing to take the oath of the presidential office, there is less occasion for an extended address than there was at the first.",
+      "On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil war.",
+      "Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish.",
+      "And the war came.",
+      "One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern half part of it.",
+      "These slaves constituted a peculiar and powerful interest.",
+      "All knew that this interest was, somehow, the cause of the war.",
+      "To strengthen, perpetuate, and extend this interest was the object for which the insurgents would rend the Union, even by war; while the government claimed no right to do more than to restrict the territorial enlargement of it.",
+      "Neither party expected for the war, the magnitude, or the duration, which it has already attained.",
+      "Neither anticipated that the cause of the conflict might cease with, or even before, the conflict itself should cease.",
+      "Each looked for an easier triumph, and a result less fundamental and astounding.",
+      "Both read the same Bible, and pray to the same God; and each invokes His aid against the other.",
+      "It may seem strange that any men should dare to ask a just God's assistance in wringing their bread from the sweat of other men's faces; but let us judge not that we be not judged.",
+      "The prayers of both could not be answered; that of neither has been answered fully.",
+      "The Almighty has His own purposes.",
+      "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!",
+      "If we shall suppose that American Slavery is one of those offences which, in the providence of God, must needs come, but which, having continued through His appointed time, He now wills to remove, and that He gives to both North and South, this terrible war, as the woe due to those by whom the offence came, shall we discern therein any departure from those divine attributes which the believers in a Living God always ascribe to Him?",
+      "Fondly do we hope fervently do we pray that this mighty scourge of war may speedily pass away.",
+      "Yet, if God wills that it continue, until all the wealth piled by the bondmans two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash, shall be paid by another drawn with the sword, as was said f [ our ] three thousand years ago, so still it must be said the judgments of the Lord, are true and righteous altogether",
+      "With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds; to care for him who shall have borne the battle, and for his widow, and his orphan to achieve and cherish a lasting peace among ourselves and with the world.",
+      "to do all which may achieve and cherish a just, and a lasting peace, among ourselves, and with the world.",
+      "all nations."
+    ],
+    "author_claims": [
+      "The Second Inaugural Address was an eloquent and imperishable composition.",
+      "Lincoln stated that at his second appearance to take the oath of the Presidential office, there was less occasion for an extended address than at the first.",
+      "Lincoln's address included the phrase 'With malice toward none, with charity for all, with firmness in the right, as God gives us to see the right'.",
+      "The address called for striving to finish the work, bind up the nation's wounds, care for soldiers and their families, and achieve a just and lasting peace.",
+      "William Ewart Gladstone offered an opinion on the Second Inaugural Address."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "The secondary source accurately summarizes key points from Lincoln's Second Inaugural Address, including the opening statement about the reduced need for an extended address, the famous closing line 'With malice toward none, with charity for all...', and the call to action for peace and care for soldiers. The mention of Gladstone's opinion is external context that does not contradict the primary source. The secondary source's description of the address as 'eloquent and imperishable' aligns with the powerful and reflective tone of the primary source. There are no factual contradictions or significant interpretive drifts.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "* **Factual Entity Check:**\n* Matches: Lincoln's statement about less occasion for an extended address at the second inauguration, and the quote 'With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right' are present in both accounts. The secondary source also accurately summarizes the call to action regarding finishing the work, binding wounds, caring for soldiers, and achieving peace.\n* Contradictions: None found.\n* Hallucinations: None found.\n* **Context vs. Contradiction:**\n* The secondary source describes the address as an 'eloquent and imperishable composition' and mentions Gladstone's opinion. These are contextual additions that do not contradict Lincoln's text.\n* **Tonal Alignment:**\n* Lincoln's address, while somber and reflective, carries a tone of profound moral conviction and a plea for reconciliation. The secondary source's description as 'eloquent' aligns with this. There is no indication of anger or a tone that clashes with Lincoln's words.\n* **Final Scoring:**\n* The secondary source accurately reflects the key factual points and the overall sentiment of Lincoln's Second Inaugural Address. The added context is appropriate and does not introduce contradictions or misinterpretations.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "The author's account accurately summarizes key points from Lincoln's Second Inaugural Address, including the opening statement about the occasion, the famous 'malice toward none' quote, and the concluding call for reconciliation and peace. The mention of Gladstone's opinion is external context that does not contradict Lincoln's words. The secondary source is a faithful representation of the primary source's content and tone.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Second Inaugural Address",
+    "author": "John T. Morse Jr.",
+    "lincoln_claims": [
+      "At this second appearing to take the oath of the presidential office, there is less occasion for an extended address than there was at the first.",
+      "On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil war.",
+      "Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish.",
+      "And the war came.",
+      "One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern half part of it.",
+      "These slaves constituted a peculiar and powerful interest.",
+      "All knew that this interest was, somehow, the cause of the war.",
+      "To strengthen, perpetuate, and extend this interest was the object for which the insurgents would rend the Union, even by war; while the government claimed no right to do more than to restrict the territorial enlargement of it.",
+      "Neither party expected for the war, the magnitude, or the duration, which it has already attained.",
+      "Neither anticipated that the cause of the conflict might cease with, or even before, the conflict itself should cease.",
+      "Each looked for an easier triumph, and a result less fundamental and astounding.",
+      "Both read the same Bible, and pray to the same God; and each invokes His aid against the other.",
+      "It may seem strange that any men should dare to ask a just God's assistance in wringing their bread from the sweat of other men's faces; but let us judge not that we be not judged.",
+      "The prayers of both could not be answered; that of neither has been answered fully.",
+      "The Almighty has His own purposes.",
+      "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!",
+      "If we shall suppose that American Slavery is one of those offences which, in the providence of God, must needs come, but which, having continued through His appointed time, He now wills to remove, and that He gives to both North and South, this terrible war, as the woe due to those by whom the offence came, shall we discern therein any departure from those divine attributes which the believers in a Living God always ascribe to Him?",
+      "Fondly do we hope fervently do we pray that this mighty scourge of war may speedily pass away.",
+      "Yet, if God wills that it continue, until all the wealth piled by the bondmans two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash, shall be paid by another drawn with the sword, as was said f [ our ] three thousand years ago, so still it must be said the judgments of the Lord, are true and righteous altogether",
+      "With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds; to care for him who shall have borne the battle, and for his widow, and his orphan to achieve and cherish a lasting peace among ourselves and with the world.",
+      "to do all which may achieve and cherish a just, and a lasting peace, among ourselves, and with the world.",
+      "all nations."
+    ],
+    "author_claims": [
+      "The Second Inaugural Address was delivered by Abraham Lincoln.",
+      "The address was given at Lincoln's second appearance to take the presidential oath.",
+      "Lincoln's anxiety before his first inauguration was about the South forcing a civil war, while his anxiety before his second was about the North dealing too harshly with a conquered South.",
+      "The address noted that four years prior, all thoughts were directed to an impending civil war, which both parties dreaded and sought to avert.",
+      "The Civil War was caused by the institution of slavery, which was localized in the southern part of the Union.",
+      "The insurgents' object was to strengthen, perpetuate, and extend slavery, while the government claimed no right to do more than restrict its territorial enlargement.",
+      "Neither party expected the war's magnitude or duration, nor that the cause of the conflict might cease before the conflict itself.",
+      "Lincoln suggested that American slavery might be an offense that God willed to remove, and the war was the due woe for those by whom the offense came.",
+      "The address expressed a hope that the war would speedily pass away, but acknowledged that if God willed it to continue, it would be until the wealth of the bondman's toil was sunk and blood drawn with the lash was paid by blood drawn with the sword.",
+      "The speech concluded with a call to strive to finish the work, bind up the nation's wounds, care for those affected by the war, and achieve a just and lasting peace.",
+      "Lincoln believed the speech would wear well, perhaps better than anything else he had produced, but was not immediately popular because it showed a difference of purpose between the Almighty and men.",
+      "Lincoln felt the truth that the war was a divine judgment needed to be told, and since the humiliation fell most directly on himself, he thought others could afford for him to tell it.",
+      "The speech has been compared to the lofty portions of the Old Testament and is considered one of the most famous written or spoken compositions in the English language.",
+      "Lincoln returned to the White House after delivering the address with less than five weeks of life remaining."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "The secondary source accurately reflects the primary facts and tone of Lincoln's Second Inaugural Address. It captures the key themes of the address, including the cause of the war (slavery), the unexpected duration and magnitude of the conflict, and Lincoln's theological interpretation of the war as divine judgment. The secondary source also correctly notes the address's concluding message of reconciliation and peace. The additional details provided in the secondary source, such as Lincoln's personal feelings about the speech's reception and its comparison to Old Testament passages, serve as valuable context and do not contradict the primary source. The secondary source's mention of Lincoln's anxiety about the North dealing too harshly with the South is an interpretation of his post-war intentions, which is not explicitly detailed in the provided excerpt of the address itself, but it does not contradict the forward-looking, reconciliation-focused tone of the speech. Therefore, the fidelity is high.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "*   **Factual Entity Check:**\n    *   **Matches:** Both texts agree on the event (Second Inaugural Address), the speaker (Abraham Lincoln), the occasion (second appearance for presidential oath), the context of impending civil war four years prior, the cause of the war being slavery localized in the South, the object of insurgents being to perpetuate slavery, the government's stance on restricting slavery's expansion, the unexpected magnitude and duration of the war, the idea that the cause might cease before the conflict, the comparison of prayers to God, the concept of slavery as an offense, the hope for the war to pass, the imagery of wealth from toil and blood drawn by lash/sword, and the concluding call for peace and healing.\n    *   **Contradictions:** None found.\n    *   **Hallucinations:** None found. The secondary source accurately reflects the content of the primary source.\n*   **Context vs. Contradiction:**\n    *   **Contextual Additions:** The secondary source adds details not explicitly in Lincoln's text, such as Lincoln's anxiety about the North dealing too harshly with the South (contrasting with his first inauguration's anxiety about the South forcing war), Lincoln's belief that the speech would \"wear well,\" his feeling that the truth of divine judgment needed to be told, the comparison of the speech to the Old Testament, its status as a famous composition, and the detail about his remaining life. These are contextual additions that do not contradict the primary source.\n    *   **Interpretive Leaps:** The secondary source interprets Lincoln's feelings and beliefs (e.g., \"Lincoln's anxiety before his second was about the North dealing too harshly,\" \"Lincoln believed the speech would wear well,\" \"Lincoln felt the truth that the war was a divine judgment needed to be told\"). While these are interpretations, they are plausible given the primary text's content and tone, and do not directly contradict it.\n*   **Tonal Alignment:**\n    *   Lincoln's text is analytical, reflective, and deeply moral, with a tone of somber acceptance of divine will and a plea for reconciliation. The secondary source characterizes the speech accurately, noting its loftiness and its focus on divine judgment and reconciliation. It does not misrepresent the tone as angry or overly passionate in a way that contradicts the primary text.\n*   **Final Scoring:** The secondary source accurately reflects the primary facts and tone. The added information provides context and plausible interpretations without contradicting Lincoln's account. The score is high.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 85,
+        "contradictions": [
+          {
+            "type": "interpretive",
+            "reason": "The author's account suggests Lincoln's anxiety before his second inauguration was about the North dealing too harshly with a conquered South, which is not explicitly stated in Lincoln's own account, though it can be inferred from his call for 'charity for all' and to 'bind up the nation's wounds'."
+          },
+          {
+            "type": "interpretive",
+            "reason": "The author's interpretation that Lincoln believed the speech would wear well 'perhaps better than anything else he had produced' and that he felt 'the truth that the war was a divine judgment needed to be told' is an interpretation of Lincoln's personal feelings and motivations not directly present in the provided text of the speech itself."
+          },
+          {
+            "type": "interpretive",
+            "reason": "The author's statement that the speech 'was not immediately popular because it showed a difference of purpose between the Almighty and men' is an interpretation of the reception and underlying message that is not directly supported by Lincoln's own words in the provided excerpt."
+          }
+        ],
+        "reasoning": "The secondary source accurately reflects the core facts and themes of Lincoln's Second Inaugural Address. It correctly identifies the context of the speech, the causes of the war (slavery), the unexpected duration and magnitude of the conflict, and the divine providence interpretation. The concluding call for reconciliation and lasting peace is also well-represented. The score is high because the factual alignment is strong. However, there are some interpretive elements added by the author regarding Lincoln's specific anxieties and his personal reflections on the speech's reception and purpose, which are not explicitly stated in the primary source text provided. These are interpretive coloring rather than factual contradictions, leading to a score in the 'Contextual Variance' range.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Second Inaugural Address",
+    "author": "John Hay, John G. Nicolay",
+    "lincoln_claims": [
+      "At this second appearing to take the oath of the presidential office, there is less occasion for an extended address than there was at the first.",
+      "On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil war.",
+      "Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish.",
+      "And the war came.",
+      "One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern half part of it.",
+      "These slaves constituted a peculiar and powerful interest.",
+      "All knew that this interest was, somehow, the cause of the war.",
+      "To strengthen, perpetuate, and extend this interest was the object for which the insurgents would rend the Union, even by war; while the government claimed no right to do more than to restrict the territorial enlargement of it.",
+      "Neither party expected for the war, the magnitude, or the duration, which it has already attained.",
+      "Neither anticipated that the cause of the conflict might cease with, or even before, the conflict itself should cease.",
+      "Each looked for an easier triumph, and a result less fundamental and astounding.",
+      "Both read the same Bible, and pray to the same God; and each invokes His aid against the other.",
+      "It may seem strange that any men should dare to ask a just God's assistance in wringing their bread from the sweat of other men's faces; but let us judge not that we be not judged.",
+      "The prayers of both could not be answered; that of neither has been answered fully.",
+      "The Almighty has His own purposes.",
+      "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!",
+      "If we shall suppose that American Slavery is one of those offences which, in the providence of God, must needs come, but which, having continued through His appointed time, He now wills to remove, and that He gives to both North and South, this terrible war, as the woe due to those by whom the offence came, shall we discern therein any departure from those divine attributes which the believers in a Living God always ascribe to Him?",
+      "Fondly do we hope fervently do we pray that this mighty scourge of war may speedily pass away.",
+      "Yet, if God wills that it continue, until all the wealth piled by the bondmans two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash, shall be paid by another drawn with the sword, as was said f [ our ] three thousand years ago, so still it must be said the judgments of the Lord, are true and righteous altogether",
+      "With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds; to care for him who shall have borne the battle, and for his widow, and his orphan to achieve and cherish a lasting peace among ourselves and with the world.",
+      "to do all which may achieve and cherish a just, and a lasting peace, among ourselves, and with the world.",
+      "all nations."
+    ],
+    "author_claims": [
+      "The Second Inaugural Address is not kindred with Lincoln's other inaugural addresses.",
+      "The Second Inaugural Address does not resemble the Gettysburg speech, in the same way that 'The Comedy of Errors' does not resemble 'Hamlet'."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "interpretive",
+            "reason": "The secondary source states the Second Inaugural Address is 'not kindred' with Lincoln's other inaugural addresses and does not resemble the Gettysburg speech. While the tone and focus of the Second Inaugural are distinct, the primary source itself does not make these comparative judgments about its relationship to other speeches. The secondary source is adding an interpretation of the address's uniqueness."
+          }
+        ],
+        "reasoning": "The secondary source's claims about the Second Inaugural Address being distinct from other addresses and the Gettysburg speech are interpretive statements. The primary source, Lincoln's address, focuses on the causes and divine will behind the Civil War, and concludes with a call for reconciliation. While the primary source doesn't explicitly compare itself to other speeches, the secondary source's interpretation doesn't directly contradict the content of the address. The secondary source is adding a layer of analysis regarding the address's literary and thematic distinctiveness, which is a common practice in historical analysis. The score reflects that the facts align, but the historian adds interpretive coloring not explicitly present in the primary text.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 80,
+        "contradictions": [],
+        "reasoning": "* **Factual Entity Check:** No specific entities (dates, names, numbers) are directly compared or contradicted. The secondary source makes broad comparative statements about the address itself, not specific facts within it.\n* **Context vs. Contradiction:** The secondary source's statements are comparative and interpretive, not factual claims about the content of the address. It states the Second Inaugural Address is not kindred with other addresses and does not resemble the Gettysburg speech. These are subjective comparisons and not factual assertions that can be directly verified or contradicted by the provided text of the address. The analogies used ('The Comedy of Errors' vs. 'Hamlet') are illustrative of the author's interpretation of the address's distinctiveness.\n* **Tonal Alignment:** The secondary source does not describe the tone of the address, but rather its literary or thematic relationship to other works. Therefore, tonal alignment cannot be assessed. The statements made are about the address's uniqueness, which is not contradicted by Lincoln's text, as the text itself is unique in its content and style.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 55,
+        "contradictions": [
+          {
+            "type": "interpretive",
+            "reason": "The secondary source claims the Second Inaugural Address is not kindred with Lincoln's other inaugural addresses and compares it to literary works of vastly different genres ('The Comedy of Errors' vs. 'Hamlet'). This is an interpretive claim not directly supported or refuted by the provided text of the address itself, which focuses on the war's causes, divine will, and reconciliation. The secondary source's interpretation seems to impose an external literary or stylistic comparison that isn't evident from Lincoln's own words in this specific address."
+          },
+          {
+            "type": "omission",
+            "reason": "The secondary source focuses on a stylistic comparison and claims the address is not kindred to others. However, it omits the core themes and profound theological and moral reflections present in Lincoln's actual speech, such as the divine providence in the war, the sin of slavery, and the call for reconciliation. This omission leads to a narrow and potentially misleading characterization of the address."
+          }
+        ],
+        "reasoning": "The secondary source's claims are primarily interpretive and comparative, suggesting a stylistic difference between Lincoln's addresses. While the provided text of the Second Inaugural Address does have a unique tone and focus compared to a typical inaugural speech, the secondary source's specific literary analogy and assertion of 'not kindred' are not directly verifiable from the primary text alone. The secondary source also omits the significant theological and moral content of Lincoln's speech, focusing instead on a stylistic comparison. This leads to a moderate score as there isn't a direct factual contradiction, but the interpretation is external and the omission of key themes is significant.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Second Inaugural Address",
+    "author": "Henry Ketcham",
+    "lincoln_claims": [
+      "At this second appearing to take the oath of the presidential office, there is less occasion for an extended address than there was at the first.",
+      "On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil war.",
+      "Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish.",
+      "And the war came.",
+      "One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern half part of it.",
+      "These slaves constituted a peculiar and powerful interest.",
+      "All knew that this interest was, somehow, the cause of the war.",
+      "To strengthen, perpetuate, and extend this interest was the object for which the insurgents would rend the Union, even by war; while the government claimed no right to do more than to restrict the territorial enlargement of it.",
+      "Neither party expected for the war, the magnitude, or the duration, which it has already attained.",
+      "Neither anticipated that the cause of the conflict might cease with, or even before, the conflict itself should cease.",
+      "Each looked for an easier triumph, and a result less fundamental and astounding.",
+      "Both read the same Bible, and pray to the same God; and each invokes His aid against the other.",
+      "It may seem strange that any men should dare to ask a just God's assistance in wringing their bread from the sweat of other men's faces; but let us judge not that we be not judged.",
+      "The prayers of both could not be answered; that of neither has been answered fully.",
+      "The Almighty has His own purposes.",
+      "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!",
+      "If we shall suppose that American Slavery is one of those offences which, in the providence of God, must needs come, but which, having continued through His appointed time, He now wills to remove, and that He gives to both North and South, this terrible war, as the woe due to those by whom the offence came, shall we discern therein any departure from those divine attributes which the believers in a Living God always ascribe to Him?",
+      "Fondly do we hope fervently do we pray that this mighty scourge of war may speedily pass away.",
+      "Yet, if God wills that it continue, until all the wealth piled by the bondmans two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash, shall be paid by another drawn with the sword, as was said f [ our ] three thousand years ago, so still it must be said the judgments of the Lord, are true and righteous altogether",
+      "With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds; to care for him who shall have borne the battle, and for his widow, and his orphan to achieve and cherish a lasting peace among ourselves and with the world.",
+      "to do all which may achieve and cherish a just, and a lasting peace, among ourselves, and with the world.",
+      "all nations."
+    ],
+    "author_claims": [
+      "The second inaugural address was delivered on March 4, 1865.",
+      "The inaugural address was submitted confidentially to a few trusted friends for criticism.",
+      "The address concluded with the statement: \"In your hands, my dissatisfied fellow countrymen, and not in mine, is the momentous issue of civil war.\"",
+      "The address was listened to closely throughout.",
+      "Immediately upon its conclusion, the speaker was sworn into office by Chief Justice Taney.",
+      "A significant passage from the address, \"With malice toward none, with charity for all, with firmness in the right, as God gives us to see the right, let us strive to finish the work we are in; to bind up the nation's wounds; to care for him who shall have home the battle, and for his widow, and his orphan; to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations,\" is inscribed at the base of a statue representing Lincoln speaking.",
+      "The order of service for the event included a dirge, a prayer, the reading of the second inaugural address, and an oration."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 85,
+        "contradictions": [
+          {
+            "type": "factual",
+            "reason": "The secondary source states the address concluded with 'In your hands, my dissatisfied fellow countrymen, and not in mine, is the momentous issue of civil war.' This quote is not present in the provided excerpt of Lincoln's primary source account. While it is a known quote from the address, its inclusion as a concluding statement in the secondary source without it being in the primary source excerpt creates a factual discrepancy within the provided context."
+          },
+          {
+            "type": "factual",
+            "reason": "The secondary source states that immediately upon its conclusion, the speaker was sworn into office by Chief Justice Taney. The primary source does not mention the Chief Justice or the swearing-in ceremony."
+          },
+          {
+            "type": "omission",
+            "reason": "The secondary source omits the significant theological and philosophical reflections on slavery, divine will, and the 'woe' of offenses present in Lincoln's primary account. It also omits Lincoln's explicit statement about the cause of the war being slavery."
+          }
+        ],
+        "reasoning": "The secondary source accurately identifies the event and provides contextual details like the date and the process of review. It also correctly quotes a significant portion of the address. However, it introduces a concluding quote not present in the provided primary source excerpt and omits key thematic elements of Lincoln's speech, particularly his direct attribution of the war's cause to slavery and his profound theological reflections. The mention of Chief Justice Taney is also an addition not found in the primary source. These omissions and additions, while not outright contradictions of the provided text, represent a 'Contextual Variance' as the secondary source adds details and frames the event without fully reflecting the depth and specific points made in Lincoln's own words as presented.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 75,
+        "contradictions": [
+          {
+            "type": "hallucination",
+            "reason": "The secondary source attributes the quote 'In your hands, my dissatisfied fellow countrymen, and not in mine, is the momentous issue of civil war.' to Lincoln's address. This quote does not appear in the provided primary source text of the Second Inaugural Address."
+          }
+        ],
+        "reasoning": "* **Factual Entity Check:**\n* Matches: The date March 4, 1865, is mentioned in the secondary source, and while not explicitly stated in Lincoln's text, it aligns with the context of a second inaugural address.\n* Hallucinations: The secondary source includes a specific quote attributed to Lincoln that is not present in the provided primary source text.\n* **Context vs. Contradiction:**\n* The secondary source provides details about the address being submitted for criticism, being listened to closely, and the swearing-in by Chief Justice Taney, which are contextual additions not found in Lincoln's speech text. These are generally acceptable contextual additions.\n* The secondary source includes a quote that is not in the primary source, which is a hallucination rather than a contextual addition.\n* **Tonal Alignment:**\n* Lincoln's text is analytical, reflective, and somber, with a tone of divine providence and a call for reconciliation. The secondary source does not explicitly characterize the tone, but the inclusion of the fabricated quote might imply a more direct confrontational tone than what is present in Lincoln's actual words.\n* **Final Scoring:** The score is moderate because the factual details provided by the secondary source (like the date and the general event) are consistent, and many of the added details are contextual. However, the inclusion of a significant, fabricated quote is a notable distortion.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 85,
+        "contradictions": [
+          {
+            "type": "factual",
+            "reason": "The author's account states the address concluded with 'In your hands, my dissatisfied fellow countrymen, and not in mine, is the momentous issue of civil war.' This quote is not present in Lincoln's provided account, which ends with a more general statement about achieving peace. While Lincoln's account does discuss the war and its causes, this specific concluding sentence is not directly supported by the provided primary source excerpt."
+          }
+        ],
+        "reasoning": "The secondary source accurately reflects the date and the general context of Lincoln's Second Inaugural Address. It correctly identifies key themes such as the cause of the war (slavery) and the desire for peace and reconciliation, as evidenced by the inclusion of the famous 'malice toward none' passage. The secondary source also provides contextual details about the delivery and reception of the speech, such as the order of service and the swearing-in ceremony. However, there is a factual discrepancy regarding the concluding sentence of the address. The provided primary source excerpt does not contain the specific concluding sentence attributed to it in the secondary source. This omission/misattribution prevents a 'High Fidelity' score. The score of 85 reflects strong factual alignment and contextual enrichment, with a minor factual variance.",
+        "error": null
+      }
+    }
+  },
+  {
+    "event": "Second Inaugural Address",
+    "author": "Baron Godfrey Rathbone Benson Charnwood",
+    "lincoln_claims": [
+      "At this second appearing to take the oath of the presidential office, there is less occasion for an extended address than there was at the first.",
+      "On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil war.",
+      "Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish.",
+      "And the war came.",
+      "One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern half part of it.",
+      "These slaves constituted a peculiar and powerful interest.",
+      "All knew that this interest was, somehow, the cause of the war.",
+      "To strengthen, perpetuate, and extend this interest was the object for which the insurgents would rend the Union, even by war; while the government claimed no right to do more than to restrict the territorial enlargement of it.",
+      "Neither party expected for the war, the magnitude, or the duration, which it has already attained.",
+      "Neither anticipated that the cause of the conflict might cease with, or even before, the conflict itself should cease.",
+      "Each looked for an easier triumph, and a result less fundamental and astounding.",
+      "Both read the same Bible, and pray to the same God; and each invokes His aid against the other.",
+      "It may seem strange that any men should dare to ask a just God's assistance in wringing their bread from the sweat of other men's faces; but let us judge not that we be not judged.",
+      "The prayers of both could not be answered; that of neither has been answered fully.",
+      "The Almighty has His own purposes.",
+      "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!",
+      "If we shall suppose that American Slavery is one of those offences which, in the providence of God, must needs come, but which, having continued through His appointed time, He now wills to remove, and that He gives to both North and South, this terrible war, as the woe due to those by whom the offence came, shall we discern therein any departure from those divine attributes which the believers in a Living God always ascribe to Him?",
+      "Fondly do we hope fervently do we pray that this mighty scourge of war may speedily pass away.",
+      "Yet, if God wills that it continue, until all the wealth piled by the bondmans two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash, shall be paid by another drawn with the sword, as was said f [ our ] three thousand years ago, so still it must be said the judgments of the Lord, are true and righteous altogether",
+      "With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds; to care for him who shall have borne the battle, and for his widow, and his orphan to achieve and cherish a lasting peace among ourselves and with the world.",
+      "to do all which may achieve and cherish a just, and a lasting peace, among ourselves, and with the world.",
+      "all nations."
+    ],
+    "author_claims": [
+      "Abraham Lincoln took office for the second time as President of the United States on March 4, 1865.",
+      "The Second Inaugural Address was delivered by Abraham Lincoln.",
+      "Lincoln's Second Inaugural Address was one of the chief outstanding examples of his peculiar oratorical power, alongside the Gettysburg Address.",
+      "In his Second Inaugural Address, Lincoln stated there was less occasion for an extended address than at his first inauguration because public declarations had been constantly made during the preceding four years of the Civil War.",
+      "Lincoln acknowledged that the progress of the Union's arms was well known to the public and reasonably satisfactory.",
+      "Four years prior to the Second Inaugural Address, all thoughts were directed to an impending civil war, which both parties dreaded and sought to avert.",
+      "Insurgent agents were seeking to destroy the Union by negotiation while Lincoln's first inaugural address was being delivered.",
+      "One party was willing to make war to preserve the nation, while the other was willing to accept war to prevent its dissolution.",
+      "The Civil War came about because one party would make war rather than let the nation survive.",
+      "Slavery, localized in the Southern part of the Union, constituted a peculiar and powerful interest and was the cause of the war.",
+      "The insurgents' object was to strengthen, perpetuate, and extend the interest of slavery, even by war.",
+      "The Government claimed no right to do more than restrict the territorial enlargement of slavery.",
+      "Neither party expected the war to reach its magnitude or duration, nor that the cause of the conflict might cease before the conflict itself.",
+      "Both sides prayed to the same God, but their prayers could not both be answered.",
+      "Lincoln suggested that American slavery might be an offense that God willed to remove through the war.",
+      "Lincoln expressed hope that the war would speedily pass away, but acknowledged that if God willed it to continue, it would be a judgment for the unrequited toil and suffering caused by slavery.",
+      "Lincoln concluded his address with the famous sentiment: 'With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds, to care for him who shall have borne the battle, and for his widow, and his orphan--to do all which may achieve and cherish a just and lasting peace among ourselves, and with all nations.'",
+      "The 'Second Inaugural' was read over Lincoln's grave after his burial service, using his own words to honor him."
+    ],
+    "judgments": {
+      "zero_shot": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "The secondary source accurately and comprehensively reflects the key points and the overall tone of Lincoln's Second Inaugural Address. It captures Lincoln's reflections on the war's origins, its divine purpose, and his concluding call for reconciliation and peace. The secondary source adds contextual information, such as the date of the inauguration and the comparison to the Gettysburg Address, which enhances understanding without contradicting the primary source. The detail about the address being read over Lincoln's grave is an interesting historical note that does not alter the consistency of the content of the address itself.",
+        "error": null
+      },
+      "chain_of_thought": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "*   **Factual Entity Check:**\n    *   **Matches:** Both texts mention the Second Inaugural Address, March 4, 1865 (implied by \"four years prior\" to the first inauguration), the context of the Civil War, the cause of the war being slavery, the differing expectations of the war's duration and magnitude, the shared prayer to God, and the concluding sentiment of \"malice toward none; with charity for all.\" The secondary source accurately states Lincoln delivered the address and that it was a significant oratorical work.\n    *   **Contradictions:** None.\n    *   **Hallucinations:** None. The secondary source accurately attributes statements and sentiments to Lincoln based on the provided primary text.\n*   **Context vs. Contradiction (The Omission Filter):**\n    *   **Contextual Additions:** The secondary source adds that \"public declarations had been constantly made during the preceding four years of the Civil War\" as a reason for a shorter address, which is a reasonable inference from Lincoln's statement about \"less occasion for an extended address.\" It also notes the \"progress of the Union's arms was well known to the public and reasonably satisfactory,\" which is not directly stated but aligns with the overall context of the war's nearing conclusion. The detail about the address being read over Lincoln's grave is external information but does not contradict the primary text.\n    *   **Interpretive Leaps:** None. The secondary source's descriptions are well-supported by the primary text.\n*   **Tonal Alignment:**\n    *   The primary text has a reflective, analytical, and somber tone, acknowledging divine will and the gravity of the war's cause and consequences. The secondary source describes the address as an \"outstanding example of his peculiar oratorical power\" and accurately reflects the content and sentiment, aligning with the primary text's tone.\n*   **Final Scoring:**\n    *   The secondary source is highly faithful to the primary text, accurately reflecting its facts, core arguments, and tone. The added contextual details are plausible and do not introduce contradictions. Therefore, a high fidelity score is warranted.",
+        "error": null
+      },
+      "few_shot": {
+        "consistency_score": 95,
+        "contradictions": [],
+        "reasoning": "The secondary source provides a highly accurate and consistent summary of Lincoln's Second Inaugural Address. It captures the main points, the historical context, and the overall tone of Lincoln's speech. The secondary source adds contextual information, such as the date of the inauguration and the comparison to the Gettysburg Address, which enriches the understanding without contradicting the primary source. The inclusion of the final sentiment of the speech in the secondary source is also a direct and accurate reflection of Lincoln's words. The secondary source also correctly identifies the core themes of the speech, including the cause of the war (slavery), the unexpected duration and magnitude of the conflict, and the divine providence guiding events. The final sentence about the speech being read over Lincoln's grave is a historical detail not present in the primary source but does not contradict it and serves as a poignant epilogue.",
+        "error": null
+      }
+    }
+  }
+]

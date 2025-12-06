@@ -1,0 +1,303 @@
+================================================================================
+MANUAL ANNOTATION: Lincoln vs Author Consistency
+================================================================================
+
+Instructions:
+- For each comparison, read Lincoln's claims and the Author's claims
+- Rate: CONSISTENT / PARTIALLY_CONSISTENT / NOT_CONSISTENT
+- Add optional notes explaining your rating
+
+================================================================================
+EVENT 1: ELECTION NIGHT 1860
+================================================================================
+
+------------------------------------------------------------------------------
+COMPARISON 1.1: Lincoln vs John T. Morse Jr.
+Source: Abraham Lincoln, Volume II (gutenberg_12801)
+------------------------------------------------------------------------------
+
+LINCOLN'S CLAIMS:
+- A circular distributed before the election by respectable citizens of New York held up Lincoln as a dangerous radical and an enemy of the institutions of the South and of the peace and security of the Union, whose policies were unsettling to the commercial life of the country.
+
+AUTHOR'S CLAIMS:
+- Abraham Lincoln was to be the next president of the United States in the autumn of 1860.
+- Following his election in 1860, Lincoln was immediately approached by office seekers and individuals who warned him of assassination threats.
+- The news of Lincoln's election in 1860 arrived throughout the day, leading to a celebratory atmosphere.
+- Lincoln's election was secured by successes achieved by the Republican party.
+- The Republican party nominated Lincoln for the presidency in 1860.
+- The Republican party's moral attitude toward slavery was the real cause of secession.
+
+YOUR RATING: Consistent
+NOTES: No mention/capture  of Lincoln being painted as a dangerous radical before elctions by the author.Extra information thoiugh
+
+
+------------------------------------------------------------------------------
+COMPARISON 1.2: Lincoln vs Baron Godfrey Rathbone Benson Charnwood
+Source: Abraham Lincoln (gutenberg_18379)
+------------------------------------------------------------------------------
+
+LINCOLN'S CLAIMS:
+- A circular distributed before the election by respectable citizens of New York held up Lincoln as a dangerous radical and an enemy of the institutions of the South and of the peace and security of the Union, whose policies were unsettling to the commercial life of the country.
+
+AUTHOR'S CLAIMS:
+- Abraham Lincoln was elected President of the United States.
+- On the night of November 6, 1860, Lincoln received election results in a telegraph box in Springfield.
+- Lincoln was confident of his victory before all election returns were complete.
+- Lincoln began planning his Cabinet on election night.
+- Lincoln was elected by a minority of the American people based on popular votes.
+- Lincoln's votes came exclusively from the Northern states; he carried almost all free states and no others.
+- For the first time, the united North used its superior numbers to outvote the South.
+- The election of Lincoln was met with derision in the South.
+
+YOUR RATING: Consistent
+NOTES: Completely captures the southern distrust towards Lincolnand some other extra information 
+
+
+================================================================================
+EVENT 2: FORT SUMTER DECISION
+================================================================================
+
+------------------------------------------------------------------------------
+COMPARISON 2.1: Lincoln vs Francis F. Browne
+Source: The Every-day Life of Abraham Lincoln (gutenberg_14004)
+------------------------------------------------------------------------------
+
+LINCOLN'S CLAIMS:
+- The flag of the United States was flying over Fort Sumter.
+- Fort Sumter had not been attacked.
+- An attempt would be made to supply Fort Sumter with provisions only.
+- If the attempt to supply provisions was not resisted, no effort to throw in men, arms, or ammunition would be made, without further notice, or in case of an attack upon the Fort.
+
+AUTHOR'S CLAIMS:
+- The United States forts and armaments on the Southern coast were delivered into the hands of the enemy, with the exception of Fort Sumter, which was gallantly held by Major Robert Anderson.
+- The Confederate attack upon Fort Sumter, a United States fort situated at the mouth of Charleston Harbor, South Carolina, on April 12, 1861, was the signal that civil war had actually begun.
+- Lincoln maintained a conciliatory policy toward the States in rebellion until their resort to arms and capture of forts and property of the United States decided the course of the administration.
+- Following the assault on Fort Sumter, Lincoln issued a proclamation asking for the immediate enlistment of 75,000 volunteers and summoned Congress to convene in an extra session on July 4th.
+
+YOUR RATING: Consistent 
+NOTES: The author acknowldeges Lincolns restraint before the attack. Also only the provisions were to be supplied and sequence was also aligned
+
+
+------------------------------------------------------------------------------
+COMPARISON 2.2: Lincoln vs Henry Ketcham
+Source: The Life of Abraham Lincoln (gutenberg_6811)
+------------------------------------------------------------------------------
+
+LINCOLN'S CLAIMS:
+- The flag of the United States was flying over Fort Sumter.
+- Fort Sumter had not been attacked.
+- An attempt would be made to supply Fort Sumter with provisions only.
+- If the attempt to supply provisions was not resisted, no effort to throw in men, arms, or ammunition would be made, without further notice, or in case of an attack upon the Fort.
+
+AUTHOR'S CLAIMS:
+- The power confided to Abraham Lincoln was to be used to hold, occupy, and possess the property and places belonging to the Government, and to collect the duties and imposts.
+- Lincoln ordered General Scott to employ every means in his power to strengthen and hold the forts.
+- Major Anderson was beleaguered in Fort Sumter.
+- Lincoln concluded to send provisions to Fort Sumter.
+- On Friday, April 12th, 1861, at 3:30 P.M., General Beauregard gave notice to Major Anderson that he would open fire on Fort Sumter in one hour.
+- The morning after the evacuation of Fort Sumter, Lincoln issued his call for 75,000 volunteers to serve for three months.
+
+YOUR RATING: Consistent
+Notes: The author affirms Lincolns claim to only send provisions. Sequence was also well aligned. SOme extra factual additions about others strategies 
+
+
+================================================================================
+EVENT 3: GETTYSBURG ADDRESS
+================================================================================
+
+------------------------------------------------------------------------------
+COMPARISON 3.1: Lincoln vs John Hay, John G. Nicolay
+Source: Abraham Lincoln: a History — Volume 01 (gutenberg_6812)
+------------------------------------------------------------------------------
+
+LINCOLN'S CLAIMS:
+- Four score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that "all men are created equal."
+- Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure.
+- We are met on a great battle field of that war.
+- We have come to dedicate a portion of it, as a final resting place for those who died here, that the nation might live.
+- The brave men, living and dead, who struggled here, have hallowed it, far above our poor power to add or detract.
+- The world will little note, nor long remember what we say here; while it can never forget what they did here.
+- It is rather for us, the living, we here be dedicated to the great task remaining before us
+- that we here highly resolve these dead shall not have died in vain
+- that the nation shall have a new birth of freedom
+- and that government of the people by the people for the people, shall not perish from the earth.
+
+AUTHOR'S CLAIMS:
+- The Gettysburg speech is dissimilar to Lincoln's inaugural addresses, much like 'The Comedy of Errors' is dissimilar to 'Hamlet'.
+
+YOUR RATING: Not Consistent
+NOTES: Just a comment on the address no real capture. Makes sesne, siunce this book is Volume 1  of the series doesnt contain those events 
+
+
+------------------------------------------------------------------------------
+COMPARISON 3.2: Lincoln vs Baron Godfrey Rathbone Benson Charnwood
+Source: Abraham Lincoln (gutenberg_18379)
+------------------------------------------------------------------------------
+
+LINCOLN'S CLAIMS:
+- Four score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that "all men are created equal."
+- Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure.
+- We are met on a great battle field of that war.
+- We have come to dedicate a portion of it, as a final resting place for those who died here, that the nation might live.
+- The brave men, living and dead, who struggled here, have hallowed it, far above our poor power to add or detract.
+- The world will little note, nor long remember what we say here; while it can never forget what they did here.
+- It is rather for us, the living, we here be dedicated to the great task remaining before us
+- that we here highly resolve these dead shall not have died in vain
+- that the nation shall have a new birth of freedom
+- and that government of the people by the people for the people, shall not perish from the earth.
+
+AUTHOR'S CLAIMS:
+- The Gettysburg Address was delivered on November 19, 1863, at the dedication of a National Cemetery on the battlefield of Gettysburg.
+- Edward Everett was the main orator at the ceremony where Lincoln's speech was given.
+- President Lincoln was asked to say a few words at the close of the ceremony.
+- The Gettysburg Address begins with the phrase 'Four score and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal.'
+- The speech discusses the ongoing Civil War as a test of whether a nation conceived in liberty and dedicated to equality can endure.
+- The purpose of the gathering was to dedicate a portion of the field as a resting place for those who died there.
+- The speech emphasizes that the soldiers who fought and died have consecrated the ground far beyond any words spoken.
+- It calls for the living to be dedicated to the unfinished work and the great task remaining before them, drawing inspiration from the fallen.
+- The speech resolves that the dead shall not have died in vain and that the nation shall have a new birth of freedom.
+- The Gettysburg Address concludes with the famous phrase 'government of the people, by the people, for the people, shall not perish from the earth.'
+
+YOUR RATING: Consistent
+NOTES: Author references almost each of Lincolns phrase , reaffirms Lincolns intent , tone on sacrifice , equality, national purpose, democracy.
+
+
+================================================================================
+EVENT 4: SECOND INAUGURAL ADDRESS
+================================================================================
+
+------------------------------------------------------------------------------
+COMPARISON 4.1: Lincoln vs John T. Morse Jr.
+Source: Abraham Lincoln, Volume II (gutenberg_12801)
+------------------------------------------------------------------------------
+
+LINCOLN'S CLAIMS:
+- At this second appearing to take the oath of the presidential office, there is less occasion for an extended address than there was at the first.
+- On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil war.
+- Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish.
+- And the war came.
+- One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern half part of it.
+- All knew that this interest was, somehow, the cause of the war.
+- Neither party expected for the war, the magnitude, or the duration, which it has already attained.
+- With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds.
+
+AUTHOR'S CLAIMS:
+- The Second Inaugural Address was delivered by Abraham Lincoln.
+- The address was given at Lincoln's second appearance to take the presidential oath.
+- Lincoln's anxiety before his first inauguration was about the South forcing a civil war, while his anxiety before his second was about the North dealing too harshly with a conquered South.
+- The address noted that four years prior, all thoughts were directed to an impending civil war, which both parties dreaded and sought to avert.
+- The Civil War was caused by the institution of slavery, which was localized in the southern part of the Union.
+- Neither party expected the war's magnitude or duration, nor that the cause of the conflict might cease before the conflict itself.
+- The speech concluded with a call to strive to finish the work, bind up the nation's wounds, care for those affected by the war, and achieve a just and lasting peace.
+- Lincoln believed the speech would wear well, perhaps better than anything else he had produced.
+
+YOUR RATING: Consistent
+NOTES: Author reaffirms the slavery point and the scale of magnitude point. Anxiety may not be the right emotion here though
+
+
+------------------------------------------------------------------------------
+COMPARISON 4.2: Lincoln vs John Hay, John G. Nicolay
+Source: Abraham Lincoln: a History — Volume 01 (gutenberg_6812)
+------------------------------------------------------------------------------
+
+LINCOLN'S CLAIMS:
+- At this second appearing to take the oath of the presidential office, there is less occasion for an extended address than there was at the first.
+- On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil war.
+- Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish.
+- And the war came.
+- One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern half part of it.
+- All knew that this interest was, somehow, the cause of the war.
+- Neither party expected for the war, the magnitude, or the duration, which it has already attained.
+- With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds.
+
+AUTHOR'S CLAIMS:
+- The Second Inaugural Address is not kindred with Lincoln's other inaugural addresses.
+- The Second Inaugural Address does not resemble the Gettysburg speech, in the same way that 'The Comedy of Errors' does not resemble 'Hamlet'.
+
+YOUR RATING: Not Consistent
+NOTES: AUthor doesn nt focus on the speech but just a mere commentary on it.
+
+
+------------------------------------------------------------------------------
+COMPARISON 9: Lincoln vs Francis F. Browne
+Event: Gettysburg Address
+Source: The Every-day Life of Abraham Lincoln (gutenberg_14004)
+------------------------------------------------------------------------------
+
+LINCOLN'S CLAIMS:
+- Four score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that "all men are created equal."
+- Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure.
+- We are met on a great battle field of that war.
+- We have come to dedicate a portion of it, as a final resting place for those who died here, that the nation might live.
+- The brave men, living and dead, who struggled here, have hallowed it, far above our poor power to add or detract.
+- The world will little note, nor long remember what we say here; while it can never forget what they did here.
+- It is rather for us, the living, we here be dedicated to the great task remaining before us
+- that we here highly resolve these dead shall not have died in vain
+- that the nation shall have a new birth of freedom
+- and that government of the people by the people for the people, shall not perish from the earth.
+
+AUTHOR'S CLAIMS:
+- The Gettysburg Address was delivered at the dedication of the National Cemetery at Gettysburg.
+- The address is described as Lincoln's most eloquent and touching public appeal, possibly second only to the Gettysburg oration.
+- Gladstone of England commented on the address, seeing in it the effect of sharp trial to raise men to a higher level of thought and action.
+- The address begins by referencing the nation's founding fathers who brought forth a new nation conceived in liberty and dedicated to the proposition that all men are created equal.
+- The address acknowledges the ongoing Civil War as a test of whether a nation conceived in liberty can endure.
+- The address calls for the living to dedicate themselves to the unfinished work of those who fought at Gettysburg.
+- The address expresses the hope that the nation shall have a new birth of freedom.
+- The address articulates the concept of government of the people, by the people, for the people, and states it shall not perish from the earth.
+
+YOUR RATING: Consistent
+NOTES: The author captures all the major themes of teh Gettysberg address like liberty , equality, sacrifice etc.
+Every major phrase is perfectly paraphrased
+
+
+------------------------------------------------------------------------------
+COMPARISON 10: Lincoln vs Baron Godfrey Rathbone Benson Charnwood
+Event: Second Inaugural Address
+Source: Abraham Lincoln (gutenberg_18379)
+------------------------------------------------------------------------------
+
+LINCOLN'S CLAIMS:
+- At this second appearing to take the oath of the presidential office, there is less occasion for an extended address than there was at the first.
+- On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil war.
+- Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish.
+- And the war came.
+- One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern half part of it.
+- All knew that this interest was, somehow, the cause of the war.
+- Neither party expected for the war, the magnitude, or the duration, which it has already attained.
+- With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds.
+
+AUTHOR'S CLAIMS:
+- Abraham Lincoln took office for the second time as President of the United States on March 4, 1865.
+- The Second Inaugural Address was delivered by Abraham Lincoln.
+- Lincoln's Second Inaugural Address was one of the chief outstanding examples of his peculiar oratorical power, alongside the Gettysburg Address.
+- In his Second Inaugural Address, Lincoln stated there was less occasion for an extended address than at his first inauguration.
+- Lincoln acknowledged that the progress of the Union's arms was well known to the public and reasonably satisfactory.
+- Four years prior to the Second Inaugural Address, all thoughts were directed to an impending civil war, which both parties dreaded and sought to avert.
+- The Civil War came about because one party would make war rather than let the nation survive.
+- Slavery, localized in the Southern part of the Union, constituted a peculiar and powerful interest and was the cause of the war.
+- Neither party expected the war to reach its magnitude or duration.
+- Lincoln concluded his address with the famous sentiment: 'With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds...'
+
+YOUR RATING: Consistent
+NOTES: The author provides all major themes here.
+
+
+================================================================================
+SUMMARY TABLE
+================================================================================
+
+| # | Event                    | Author                  | Your Rating |
+|---|--------------------------|-------------------------|-------------|
+| 1 | Election Night 1860      | John T. Morse Jr.       | Consistent  |
+| 2 | Election Night 1860      | Lord Charnwood          | Consistent  |
+| 3 | Fort Sumter Decision     | Francis F. Browne       | Consistent  |
+| 4 | Fort Sumter Decision     | Henry Ketcham           | Consistent  |
+| 5 | Gettysburg Address       | Hay & Nicolay           | Not Consistent |
+| 6 | Gettysburg Address       | Lord Charnwood          | Consistent  |
+| 7 | Second Inaugural Address | John T. Morse Jr.       | Consistent  |
+| 8 | Second Inaugural Address | Hay & Nicolay           | Not Consistent |
+| 9 | Gettysburg Address       | Francis F. Browne       |             |
+|10 | Second Inaugural Address | Lord Charnwood          |             |
+
+================================================================================

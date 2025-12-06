@@ -1,0 +1,4 @@
+Strategy,Kappa,Agreement,TN,FP,FN,TP
+zero_shot,0.6153846153846154,0.9,1,1,0,8
+chain_of_thought,0.0,0.8,0,2,0,8
+few_shot,0.736842105263158,0.9,2,0,1,7

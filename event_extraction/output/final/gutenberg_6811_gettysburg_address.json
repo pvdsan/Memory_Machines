@@ -1,0 +1,18 @@
+{
+  "document_id": "gutenberg_6811",
+  "document_title": "The Life of Abraham Lincoln",
+  "document_type": "Book",
+  "event": "Gettysburg Address",
+  "author": "Henry Ketcham",
+  "claims": [
+    "The Gettysburg Address is noted for its majesty, classic simplicity, and elegance.",
+    "The Gettysburg Address was delivered at the dedication of the Gettysburg cemetery.",
+    "The Gettysburg Address begins with the phrase 'Fourscore and seven years ago, our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal.'",
+    "The address states that the living should be dedicated to the unfinished work advanced by those who fought at Gettysburg."
+  ],
+  "temporal_details": {
+    "date": "November 19, 1863",
+    "time": null
+  },
+  "tone": "Admiring"
+}

@@ -1,0 +1,170 @@
+{
+  "threshold": 70,
+  "total_pairs": 10,
+  "strategies": {
+    "zero_shot": {
+      "cohens_kappa": 0.6153846153846154,
+      "simple_agreement": 0.9,
+      "confusion_matrix": {
+        "TN": 1,
+        "FP": 1,
+        "FN": 0,
+        "TP": 8
+      }
+    },
+    "chain_of_thought": {
+      "cohens_kappa": 0.0,
+      "simple_agreement": 0.8,
+      "confusion_matrix": {
+        "TN": 0,
+        "FP": 2,
+        "FN": 0,
+        "TP": 8
+      }
+    },
+    "few_shot": {
+      "cohens_kappa": 0.736842105263158,
+      "simple_agreement": 0.9,
+      "confusion_matrix": {
+        "TN": 2,
+        "FP": 0,
+        "FN": 1,
+        "TP": 7
+      }
+    }
+  },
+  "best_strategy": "few_shot",
+  "best_kappa": 0.736842105263158,
+  "detailed_results": [
+    {
+      "id": 1,
+      "event": "Election Night 1860",
+      "author": "John T. Morse Jr.",
+      "human_rating": "Consistent",
+      "human_binary": 1,
+      "zero_shot_score": 75,
+      "zero_shot_binary": 1,
+      "chain_of_thought_score": 75,
+      "chain_of_thought_binary": 1,
+      "few_shot_score": 40,
+      "few_shot_binary": 0
+    },
+    {
+      "id": 2,
+      "event": "Election Night 1860",
+      "author": "Baron Godfrey Rathbone Benson Charnwood",
+      "human_rating": "Consistent",
+      "human_binary": 1,
+      "zero_shot_score": 75,
+      "zero_shot_binary": 1,
+      "chain_of_thought_score": 75,
+      "chain_of_thought_binary": 1,
+      "few_shot_score": 75,
+      "few_shot_binary": 1
+    },
+    {
+      "id": 3,
+      "event": "Fort Sumter Decision",
+      "author": "Francis F. Browne",
+      "human_rating": "Consistent",
+      "human_binary": 1,
+      "zero_shot_score": 75,
+      "zero_shot_binary": 1,
+      "chain_of_thought_score": 75,
+      "chain_of_thought_binary": 1,
+      "few_shot_score": 75,
+      "few_shot_binary": 1
+    },
+    {
+      "id": 4,
+      "event": "Fort Sumter Decision",
+      "author": "Henry Ketcham",
+      "human_rating": "Consistent",
+      "human_binary": 1,
+      "zero_shot_score": 75,
+      "zero_shot_binary": 1,
+      "chain_of_thought_score": 75,
+      "chain_of_thought_binary": 1,
+      "few_shot_score": 75,
+      "few_shot_binary": 1
+    },
+    {
+      "id": 5,
+      "event": "Gettysburg Address",
+      "author": "John Hay, John G. Nicolay",
+      "human_rating": "Not Consistent",
+      "human_binary": 0,
+      "zero_shot_score": 40,
+      "zero_shot_binary": 0,
+      "chain_of_thought_score": 75,
+      "chain_of_thought_binary": 1,
+      "few_shot_score": 40,
+      "few_shot_binary": 0
+    },
+    {
+      "id": 6,
+      "event": "Gettysburg Address",
+      "author": "Baron Godfrey Rathbone Benson Charnwood",
+      "human_rating": "Consistent",
+      "human_binary": 1,
+      "zero_shot_score": 95,
+      "zero_shot_binary": 1,
+      "chain_of_thought_score": 95,
+      "chain_of_thought_binary": 1,
+      "few_shot_score": 95,
+      "few_shot_binary": 1
+    },
+    {
+      "id": 7,
+      "event": "Second Inaugural Address",
+      "author": "John T. Morse Jr.",
+      "human_rating": "Consistent",
+      "human_binary": 1,
+      "zero_shot_score": 95,
+      "zero_shot_binary": 1,
+      "chain_of_thought_score": 95,
+      "chain_of_thought_binary": 1,
+      "few_shot_score": 85,
+      "few_shot_binary": 1
+    },
+    {
+      "id": 8,
+      "event": "Second Inaugural Address",
+      "author": "John Hay, John G. Nicolay",
+      "human_rating": "Not Consistent",
+      "human_binary": 0,
+      "zero_shot_score": 75,
+      "zero_shot_binary": 1,
+      "chain_of_thought_score": 80,
+      "chain_of_thought_binary": 1,
+      "few_shot_score": 55,
+      "few_shot_binary": 0
+    },
+    {
+      "id": 9,
+      "event": "Gettysburg Address",
+      "author": "Francis F. Browne",
+      "human_rating": "Consistent",
+      "human_binary": 1,
+      "zero_shot_score": 75,
+      "zero_shot_binary": 1,
+      "chain_of_thought_score": 75,
+      "chain_of_thought_binary": 1,
+      "few_shot_score": 75,
+      "few_shot_binary": 1
+    },
+    {
+      "id": 10,
+      "event": "Second Inaugural Address",
+      "author": "Baron Godfrey Rathbone Benson Charnwood",
+      "human_rating": "Consistent",
+      "human_binary": 1,
+      "zero_shot_score": 95,
+      "zero_shot_binary": 1,
+      "chain_of_thought_score": 95,
+      "chain_of_thought_binary": 1,
+      "few_shot_score": 95,
+      "few_shot_binary": 1
+    }
+  ]
+}
