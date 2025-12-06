@@ -8,6 +8,7 @@ A multi-stage NLP pipeline for extracting and evaluating historical events from 
 
 | Looking for... | Go to |
 |----------------|-------|
+| **📄 Final Report** | [`Sanket_Deshpande_Final_Report.pdf`](Sanket_Deshpande_Final_Report.pdf) |
 | **Scraped Data** (raw & processed documents) | [`data_extraction/data/`](data_extraction/data/) |
 | **Final Combined Dataset** | [`data_extraction/data/processed/final.json`](data_extraction/data/processed/final.json) |
 | **Extracted Events** (structured JSON) | [`event_extraction/output/final/`](event_extraction/output/final/) |

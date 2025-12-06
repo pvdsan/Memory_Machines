@@ -42,4 +42,5 @@ desktop.ini
 
 # Personal/project files that shouldn't be in repo
 *.pdf
+!Sanket_Deshpande_Final_Report.pdf
 
